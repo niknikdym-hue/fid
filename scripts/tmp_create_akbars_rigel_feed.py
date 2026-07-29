@@ -123,6 +123,16 @@ def json_ld_product(soup: BeautifulSoup) -> dict:
     return {}
 
 
+def parse_number(raw: str) -> float | None:
+    match = re.search(r"\d[\d\s\xa0]*(?:[.,]\d{1,2})?", raw)
+    if not match:
+        return None
+    try:
+        return float(match.group(0).replace("\xa0", "").replace(" ", "").replace(",", "."))
+    except ValueError:
+        return None
+
+
 def parse_price(soup: BeautifulSoup, product_json: dict) -> float:
     offers = product_json.get("offers") if isinstance(product_json, dict) else None
     if isinstance(offers, list):
@@ -131,25 +141,44 @@ def parse_price(soup: BeautifulSoup, product_json: dict) -> float:
         for key in ("price", "lowPrice"):
             raw = offers.get(key)
             if raw not in (None, ""):
-                try:
-                    return float(str(raw).replace("\xa0", "").replace(" ", "").replace(",", "."))
-                except ValueError:
-                    pass
+                value = parse_number(str(raw))
+                if value and value > 0:
+                    return value
 
-    for tag in soup.select('[itemprop="price"], meta[property="product:price:amount"]'):
-        raw = tag.get("content") or tag.get("value") or tag.get_text(" ", strip=True)
-        if raw:
-            match = re.search(r"\d[\d\s\xa0]*(?:[.,]\d{1,2})?", raw)
-            if match:
-                return float(match.group(0).replace("\xa0", "").replace(" ", "").replace(",", "."))
+    for selector in (
+        '[itemprop="price"]',
+        'meta[property="product:price:amount"]',
+        '[data-price]',
+        '.price',
+        '.product-price',
+        '.catalog-element__price',
+        '.catalog-item__price',
+    ):
+        for tag in soup.select(selector):
+            raw = tag.get("content") or tag.get("value") or tag.get("data-price") or tag.get_text(" ", strip=True)
+            if raw:
+                value = parse_number(str(raw))
+                if value and value > 0:
+                    return value
 
     h1 = soup.find("h1")
-    scope = h1.parent if h1 and h1.parent else soup
-    text = clean(scope.get_text(" ", strip=True))
-    match = re.search(r"(?<!\d)(\d[\d\s\xa0]*(?:[.,]\d{1,2})?)\s*₽", text)
-    if not match:
-        raise RuntimeError("Не найдена числовая цена")
-    return float(match.group(1).replace("\xa0", "").replace(" ", "").replace(",", "."))
+    if h1:
+        current = h1
+        for _ in range(5):
+            current = current.parent if current and current.parent else None
+            if current is None:
+                break
+            for match in re.finditer(r"(?<!\d)(\d[\d\s\xa0]*(?:[.,]\d{1,2})?)\s*₽", clean(current.get_text(" ", strip=True))):
+                value = parse_number(match.group(1))
+                if value and value > 0:
+                    return value
+
+    page_text = clean(soup.get_text(" ", strip=True))
+    for match in re.finditer(r"(?<!\d)(\d[\d\s\xa0]*(?:[.,]\d{1,2})?)\s*₽", page_text):
+        value = parse_number(match.group(1))
+        if value and value > 0:
+            return value
+    raise RuntimeError("Не найдена числовая цена")
 
 
 def parse_params(soup: BeautifulSoup) -> dict[str, str]:
