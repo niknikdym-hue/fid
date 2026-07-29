@@ -4,6 +4,11 @@ on:
   push:
     paths:
       - .github/workflows/tmp-create-akbars-rigel-feed.yml
+  pull_request:
+    paths:
+      - scripts/tmp_create_akbars_rigel_feed.py
+      - .github/workflows/tmp-create-akbars-rigel-feed.yml
+      - tmp-rigel-feed-trigger.txt
   workflow_dispatch:
 
 permissions:
@@ -14,10 +19,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - name: Checkout repository
+      - name: Checkout repository branch
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: ${{ github.head_ref || github.ref_name }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -53,7 +59,6 @@ jobs:
             echo "Feed is already current"
           else
             git commit -m "Add Ak Bars rigel brick feed"
+            git pull --rebase
             git push
           fi
-
-# one-time trigger: 2026-07-29
