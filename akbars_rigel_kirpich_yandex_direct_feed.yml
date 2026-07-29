@@ -1,0 +1,164 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-07-29 12:43">
+  <shop>
+    <name>Ак Барс Керамик</name>
+    <company>Ак Барс Керамик</company>
+    <url>https://akbarskeramic.ru</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Кирпич лицевой ригельный</category>
+    </categories>
+    <offers>
+      <offer id="11850" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/11850-tuman-rigel/</url>
+        <price>102.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/7ed/z3mxsvprdf5li380irj6386u8c9m0kin/tuman_rigel.png</picture>
+        <name>Кирпич лицевой ригельный Туман, ригель</name>
+        <typePrefix>Кирпич лицевой ригельный</typePrefix>
+        <vendor>Кощаковский завод</vendor>
+        <model>Туман, ригель</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Кирпич лицевой ригельный Туман, ригель. Формат, НФ: Ригель. Прочность: М150. Морозостойкость: 75. Размеры: 500*85*45. На поддоне: 328/336. Норма загрузки: 6560/6720. Степень прочности: 5.</description>
+        <param name="Формат, НФ">Ригель</param>
+        <param name="Прочность">М150</param>
+        <param name="Морозостойкость">75</param>
+        <param name="Размеры" unit="мм">500*85*45</param>
+        <param name="На поддоне">328/336</param>
+        <param name="Норма загрузки">6560/6720</param>
+        <param name="Степень прочности">5</param>
+      </offer>
+      <offer id="15601" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/15601-venera-rigel/</url>
+        <price>122.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/780/o872c06f6fz54fuzr8napk9q77spu3za/venera_rigel.jpg</picture>
+        <name>Кирпич лицевой ригельный Венера, ригель</name>
+        <typePrefix>Кирпич лицевой ригельный</typePrefix>
+        <vendor>Кощаковский завод</vendor>
+        <model>Венера, ригель</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Кирпич лицевой ригельный Венера, ригель. Формат, НФ: Ригель. Размеры: 500*85*45. Степень прочности: 5.</description>
+        <param name="Формат, НФ">Ригель</param>
+        <param name="Размеры" unit="мм">500*85*45</param>
+        <param name="Степень прочности">5</param>
+      </offer>
+      <offer id="15602" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/15602-galaktika-rigel/</url>
+        <price>152.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/ddf/mdyb8v5bqprzqeg8z9nap81pb9oxt1wq/galaktika_rigel.jpg</picture>
+        <name>Кирпич лицевой ригельный Галактика, ригель</name>
+        <typePrefix>Кирпич лицевой ригельный</typePrefix>
+        <vendor>Кощаковский завод</vendor>
+        <model>Галактика, ригель</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Кирпич лицевой ригельный Галактика, ригель. Формат, НФ: Ригель. Размеры: 500*85*45. Степень прочности: 5.</description>
+        <param name="Формат, НФ">Ригель</param>
+        <param name="Размеры" unit="мм">500*85*45</param>
+        <param name="Степень прочности">5</param>
+      </offer>
+      <offer id="11817" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/11817-merkuriy-rigel/</url>
+        <price>122.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/8c1/lspukfr4ewybxlzby4g2334tdm56p4pb/merkuriy_rigel.jpg</picture>
+        <name>Кирпич лицевой ригельный Меркурий, ригель</name>
+        <typePrefix>Кирпич лицевой ригельный</typePrefix>
+        <vendor>Кощаковский завод</vendor>
+        <model>Меркурий, ригель</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Кирпич лицевой ригельный Меркурий, ригель. Формат, НФ: Ригель. Прочность: М150. Морозостойкость: 75. Размеры: 500*85*45. На поддоне: 336. Норма загрузки: 6720. Степень прочности: 5.</description>
+        <param name="Формат, НФ">Ригель</param>
+        <param name="Прочность">М150</param>
+        <param name="Морозостойкость">75</param>
+        <param name="Размеры" unit="мм">500*85*45</param>
+        <param name="На поддоне">336</param>
+        <param name="Норма загрузки">6720</param>
+        <param name="Степень прочности">5</param>
+      </offer>
+      <offer id="11819" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/11819-mars-rigely/</url>
+        <price>152.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/c9d/jruq5dqeid4gh4vc7ufrvil4nztxo8tw/mars_rigely.png</picture>
+        <name>Кирпич лицевой ригельный Марс, ригель</name>
+        <typePrefix>Кирпич лицевой ригельный</typePrefix>
+        <vendor>Кощаковский завод</vendor>
+        <model>Марс, ригель</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Кирпич лицевой ригельный Марс, ригель. Формат, НФ: Ригель. Прочность: М150. Морозостойкость: 75. Размеры: 500*85*45. На поддоне: 336. Норма загрузки: 6720. Степень прочности: 5.</description>
+        <param name="Формат, НФ">Ригель</param>
+        <param name="Прочность">М150</param>
+        <param name="Морозостойкость">75</param>
+        <param name="Размеры" unit="мм">500*85*45</param>
+        <param name="На поддоне">336</param>
+        <param name="Норма загрузки">6720</param>
+        <param name="Степень прочности">5</param>
+      </offer>
+      <offer id="1373" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/1373-beliy-rigelniy-0-75-nf/</url>
+        <price>108.10</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/c62/zoyzcchl8280w28mtlttcr5dc40tagaz/krasnaya_gvardiya_belyy_rigelnyy_0_75_nf.jpg</picture>
+        <name>Кирпич лицевой ригельный Белый (ригельный) 0,75 НФ</name>
+        <typePrefix>Кирпич лицевой ригельный</typePrefix>
+        <vendor>Красная Гвардия</vendor>
+        <model>Белый (ригельный) 0,75 НФ</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Кирпич лицевой ригельный Белый (ригельный) 0,75 НФ. Формат, НФ: Ригель. Прочность: М200. Морозостойкость: 100. Оттенки цветов: Белый. Размеры: 350*85*50. Вес: 2,2. На поддоне: 570*17. Норма загрузки: 9690. Морозостойкость: F100. Прочность: М-200.</description>
+        <param name="Формат, НФ">Ригель</param>
+        <param name="Прочность">М200</param>
+        <param name="Морозостойкость">100</param>
+        <param name="Оттенки цветов">Белый</param>
+        <param name="Размеры" unit="мм">350*85*50</param>
+        <param name="Вес" unit="кг">2,2</param>
+        <param name="На поддоне">570*17</param>
+        <param name="Норма загрузки">9690</param>
+      </offer>
+      <offer id="1371" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/1371-flash-coral-01-rigelniy-0-75-nf/</url>
+        <price>98.90</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/e60/hhio6cnfr1sl1yx00gdoztt1pe9n2mns/krasnaya_gvardiya_flash_coral_01_rigelnyy_0_75_nf.jpg</picture>
+        <name>Кирпич лицевой ригельный Флеш Аккорд коралл (Flash Аккорд Coral) (ригельный) 0,75 НФ</name>
+        <typePrefix>Кирпич лицевой ригельный</typePrefix>
+        <vendor>Красная Гвардия</vendor>
+        <model>Флеш Аккорд коралл (Flash Аккорд Coral) (ригельный) 0,75 НФ</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Кирпич лицевой ригельный Флеш Аккорд коралл (Flash Аккорд Coral) (ригельный) 0,75 НФ. Формат, НФ: Ригель. Прочность: М200. Морозостойкость: 100. Оттенки цветов: Array. Размеры: 345*85*50. Вес: 2,1. На поддоне: 570*16. Норма загрузки: 9120. Морозостойкость: F100. Прочность: М-200.</description>
+        <param name="Формат, НФ">Ригель</param>
+        <param name="Прочность">М200</param>
+        <param name="Морозостойкость">100</param>
+        <param name="Оттенки цветов">Array</param>
+        <param name="Размеры" unit="мм">345*85*50</param>
+        <param name="Вес" unit="кг">2,1</param>
+        <param name="На поддоне">570*16</param>
+        <param name="Норма загрузки">9120</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
