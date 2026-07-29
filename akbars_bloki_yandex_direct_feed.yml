@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-05-15 11:08">
+  <shop>
+    <name>Ак Барс Керамик</name>
+    <company>Ак Барс Керамик</company>
+    <url>https://akbarskeramic.ru</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Блоки</category>
+    </categories>
+    <offers>
+      <offer id="1288" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/1288-kerakam-12/</url>
+        <price>150.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/eac/iu28y79t49y7liyx6bur8phhmwjad33d/kerakam_12.jpg</picture>
+        <name>Керамический блок KERAKAM 12, 510x120x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>KERAKAM</vendor>
+        <model>12, 510x120x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок KERAKAM 12, 510x120x219 мм. Размеры: 510x120x219 мм. Марка прочности: М100. Морозостойкость: F50. Вес: 12,3 кг.</description>
+        <param name="Размеры" unit="мм">510x120x219</param>
+        <param name="Марка прочности">М100</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">12,3</param>
+      </offer>
+      <offer id="1299" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/1299-kerakam-25%2B/</url>
+        <price>138.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/fa2/7duuvjrgak7h90hhg00z9t2tf0gnxf3z/kerakam_25xlm.jpg</picture>
+        <name>Керамический блок KERAKAM 25+, 129x250x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>KERAKAM</vendor>
+        <model>25+, 129x250x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок KERAKAM 25+, 129x250x219 мм. Размеры: 129x250x219 мм. Марка прочности: М125. Морозостойкость: F50. Вес: 7,5 кг.</description>
+        <param name="Размеры" unit="мм">129x250x219</param>
+        <param name="Марка прочности">М125</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">7,5</param>
+      </offer>
+      <offer id="1284" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/1284-kerakam-25/</url>
+        <price>130.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/eae/18sbnuv9yrwzx1374j7km1i4vgt65hpt/kerakam_25.jpg</picture>
+        <name>Керамический блок KERAKAM 25, 250x250x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>KERAKAM</vendor>
+        <model>25, 250x250x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок KERAKAM 25, 250x250x219 мм. Размеры: 250x250x219 мм. Марка прочности: М125. Морозостойкость: F50. Вес: 10,9 кг.</description>
+        <param name="Размеры" unit="мм">250x250x219</param>
+        <param name="Марка прочности">М125</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">10,9</param>
+        <param name="Коэффициент теплопроводности">0,21</param>
+      </offer>
+      <offer id="1285" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/1285-kerakam-38%2B/</url>
+        <price>207.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/00a/h8hcczfr81eu0iudkukc3c8e2pcqlljc/kerakam_38.jpg</picture>
+        <name>Керамический блок KERAKAM 38+, 260x380x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>KERAKAM</vendor>
+        <model>38+, 260x380x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок KERAKAM 38+, 260x380x219 мм. Размеры: 260x380x219 мм. Марка прочности: М125. Морозостойкость: F50. Вес: 19 кг.</description>
+        <param name="Размеры" unit="мм">260x380x219</param>
+        <param name="Марка прочности">М125</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">19</param>
+        <param name="Коэффициент теплопроводности">0,19</param>
+      </offer>
+      <offer id="1296" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/1296-kerakan-38/</url>
+        <price>221.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/fc5/xjoy96qybauyud9eaqlskocnhi6bp4gx/kaiman_38.jpg</picture>
+        <name>Керамический блок KERAKAM 38, 250x380x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>KERAKAM</vendor>
+        <model>38, 250x380x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок KERAKAM 38, 250x380x219 мм. Размеры: 250x380x219 мм. Марка прочности: М75. Морозостойкость: F75. Вес: 15,6 кг.</description>
+        <param name="Размеры" unit="мм">250x380x219</param>
+        <param name="Марка прочности">М75</param>
+        <param name="Морозостойкость">F75</param>
+        <param name="Вес" unit="кг">15,6</param>
+        <param name="Коэффициент теплопроводности">0,084</param>
+      </offer>
+      <offer id="1282" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/1282-kerakam-44/</url>
+        <price>206.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/c4b/8vb062sb5wlf194j5cd435vi719qg57y/kerakam_44.jpg</picture>
+        <name>Керамический блок KERAKAM 44, 260x440x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>KERAKAM</vendor>
+        <model>44, 260x440x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок KERAKAM 44, 260x440x219 мм. Размеры: 260x440x219 мм. Марка прочности: М100. Морозостойкость: F50. Вес: 18,1 кг.</description>
+        <param name="Размеры" unit="мм">260x440x219</param>
+        <param name="Марка прочности">М100</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">18,1</param>
+        <param name="Коэффициент теплопроводности">0,128</param>
+      </offer>
+      <offer id="1280" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/1280-kerakam-51/</url>
+        <price>181.50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/10c/4vy7rnymbdh0iu58e1jhfoa871htez2j/kerakam_51.jpg</picture>
+        <name>Керамический блок KERAKAM 51, 250x510x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>KERAKAM</vendor>
+        <model>51, 250x510x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок KERAKAM 51, 250x510x219 мм. Размеры: 250x510x219 мм. Марка прочности: М100. Морозостойкость: F50. Вес: 21 кг.</description>
+        <param name="Размеры" unit="мм">250x510x219</param>
+        <param name="Марка прочности">М100</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">21</param>
+        <param name="Коэффициент теплопроводности">0,16</param>
+      </offer>
+      <offer id="1287" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/1287-kerakam-8/</url>
+        <price>149.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/def/34y2me7xbemluowjzox9jca4wy9xovqs/kerakam_8.jpg</picture>
+        <name>Керамический блок KERAKAM 8, 510x80x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>KERAKAM</vendor>
+        <model>8, 510x80x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок KERAKAM 8, 510x80x219 мм. Размеры: 510x80x219 мм. Марка прочности: М100. Морозостойкость: F50. Вес: 8,6 кг.</description>
+        <param name="Размеры" unit="мм">510x80x219</param>
+        <param name="Марка прочности">М100</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">8,6</param>
+      </offer>
+      <offer id="1290" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/1290-kerakam-u/</url>
+        <price>193.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/f99/i1iela75u46oxzc8sfqf0kzz5vmto2n3/kerakam_u.jpg</picture>
+        <name>Керамический блок KERAKAM U, 215x250x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>KERAKAM</vendor>
+        <model>U, 215x250x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок KERAKAM U, 215x250x219 мм. Размеры: 215x250x219 мм. Вес: 7,7 кг.</description>
+        <param name="Размеры" unit="мм">215x250x219</param>
+        <param name="Вес" unit="кг">7,7</param>
+      </offer>
+      <offer id="1286" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/1286-kerakam-x2/</url>
+        <price>26.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/4c9/jlhck291cggj88he3h33s77jfig6teoc/kerakam_x2.jpg</picture>
+        <name>Керамический блок KERAKAM X2, 250x120x140 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>KERAKAM</vendor>
+        <model>X2, 250x120x140 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок KERAKAM X2, 250x120x140 мм. Размеры: 250x120x140 мм. Марка прочности: М125. Морозостойкость: F50. Вес: 4,7 кг.</description>
+        <param name="Размеры" unit="мм">250x120x140</param>
+        <param name="Марка прочности">М125</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">4,7</param>
+        <param name="Коэффициент теплопроводности">0,29</param>
+      </offer>
+      <offer id="1294" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/1294-kerakam-p/</url>
+        <price>64.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/7a6/a3it5agmox1hm46xx4lx82eucijfi4kp/kerakam_p.jpg</picture>
+        <name>Керамический блок KERAKAM П, 120x219x60 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>KERAKAM</vendor>
+        <model>П, 120x219x60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок KERAKAM П, 120x219x60 мм. Размеры: 120x219x60 мм. Вес: 1,6 кг.</description>
+        <param name="Размеры" unit="мм">120x219x60</param>
+        <param name="Вес" unit="кг">1,6</param>
+      </offer>
+      <offer id="659" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/659-ketra-klimablok-38/</url>
+        <price>198.16</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/39f/yb0ag0efc43wgr0cg36jd1yybgogohjh/ketra_klimablok_38.jpg</picture>
+        <name>КЕТРА КЛИМАблок 38, 380x250x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>КЕТРА</vendor>
+        <model>КЛИМАблок 38, 380x250x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>КЕТРА КЛИМАблок 38, 380x250x219 мм. Размеры: 380x250x219 мм. Марка прочности: М100. Морозостойкость: F50. Вес: 15 кг. На поддоне: 60 шт..</description>
+        <param name="Размеры" unit="мм">380x250x219</param>
+        <param name="Марка прочности">М100</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">15</param>
+        <param name="На поддоне" unit="шт">60</param>
+      </offer>
+      <offer id="661" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/661-ketra-klimablok-44/</url>
+        <price>212.33</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/f52/mmo20ft3i7p8dsbnqxhwan7ggszw3mrs/ketra_klimablok_44.jpg</picture>
+        <name>КЕТРА КЛИМАблок 44, 440x250x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>КЕТРА</vendor>
+        <model>КЛИМАблок 44, 440x250x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>КЕТРА КЛИМАблок 44, 440x250x219 мм. Размеры: 440x250x219 мм. Марка прочности: М100. Морозостойкость: F50. Вес: 18,3 кг. На поддоне: 40 шт..</description>
+        <param name="Размеры" unit="мм">440x250x219</param>
+        <param name="Марка прочности">М100</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">18,3</param>
+        <param name="На поддоне" unit="шт">40</param>
+      </offer>
+      <offer id="657" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/657-ketra-10/</url>
+        <price>120.23</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/7b5/ej4xpmmkj1kow54s52g7qlggml4igbyx/ketra_10.jpg</picture>
+        <name>Керамический блок КЕТРА 10, 100x510x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>КЕТРА</vendor>
+        <model>10, 100x510x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок КЕТРА 10, 100x510x219 мм. Размеры: 100x510x219 мм. Марка прочности: М100. Морозостойкость: F50. Вес: 11,8 кг. На поддоне: 96 шт..</description>
+        <param name="Размеры" unit="мм">100x510x219</param>
+        <param name="Марка прочности">М100</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">11,8</param>
+        <param name="На поддоне" unit="шт">96</param>
+      </offer>
+      <offer id="658" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/658-ketra-12/</url>
+        <price>136.07</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/5fd/x5qq2dtamrbmdalhydflaave86tzall8/ketra_12.jpg</picture>
+        <name>Керамический блок КЕТРА 12, 120x510x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>КЕТРА</vendor>
+        <model>12, 120x510x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок КЕТРА 12, 120x510x219 мм. Размеры: 120x510x219 мм. Марка прочности: М100. Морозостойкость: F50. Вес: 13,4 кг. На поддоне: 80 шт..</description>
+        <param name="Размеры" unit="мм">120x510x219</param>
+        <param name="Марка прочности">М100</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">13,4</param>
+        <param name="На поддоне" unit="шт">80</param>
+      </offer>
+      <offer id="662" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/662-ketra-2-1/</url>
+        <price>37.19</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/d1b/4wk2qgeuwlb5o4uvo24sksqqhiqb04k3/ketra_2_1.jpg</picture>
+        <name>Керамический блок КЕТРА 2.1, 250x120x140 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>КЕТРА</vendor>
+        <model>2.1, 250x120x140 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок КЕТРА 2.1, 250x120x140 мм. Размеры: 250x120x140 мм. Марка прочности: М150. Морозостойкость: F50. Вес: 3,4 кг. На поддоне: 308 шт..</description>
+        <param name="Размеры" unit="мм">250x120x140</param>
+        <param name="Марка прочности">М150</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">3,4</param>
+        <param name="На поддоне" unit="шт">308</param>
+        <param name="Формат, НФ">2,1 - Двойной</param>
+      </offer>
+      <offer id="660" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/660-ketra-20/</url>
+        <price>182.42</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/9dd/jddcenv7q1dbobao1nzoc1yndq54ij32/ketra_20.jpg</picture>
+        <name>Керамический блок КЕТРА 20, 400x200x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>КЕТРА</vendor>
+        <model>20, 400x200x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок КЕТРА 20, 400x200x219 мм. Размеры: 400x200x219 мм. Марка прочности: М100. Морозостойкость: F50. Вес: 14,6 кг. На поддоне: 72 шт..</description>
+        <param name="Размеры" unit="мм">400x200x219</param>
+        <param name="Марка прочности">М100</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">14,6</param>
+        <param name="На поддоне" unit="шт">72</param>
+      </offer>
+      <offer id="664" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/664-ketra-klimablok-25/</url>
+        <price>218.27</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/c18/qmoy8bycj2070e5k9bajdlbvg6cqhmuu/ketra_klimablok_25.jpg</picture>
+        <name>Керамический блок КЕТРА 25, 250x398x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>КЕТРА</vendor>
+        <model>25, 250x398x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок КЕТРА 25, 250x398x219 мм. Размеры: 250x398x219 мм. Марка прочности: М100. Морозостойкость: F50. Вес: 17,9 кг. На поддоне: 60 шт..</description>
+        <param name="Размеры" unit="мм">250x398x219</param>
+        <param name="Марка прочности">М100</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">17,9</param>
+        <param name="На поддоне" unit="шт">60</param>
+      </offer>
+      <offer id="656" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/656-ketra-8/</url>
+        <price>95.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/bd8/jtw2ytctqixluethw0yfr27twjsv9225/ketra_8.jpg</picture>
+        <name>Керамический блок КЕТРА 8, 80x510x219 мм</name>
+        <typePrefix>Керамический блок</typePrefix>
+        <vendor>КЕТРА</vendor>
+        <model>8, 80x510x219 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Самовывоз со склада и доставка доступны по согласованию.</sales_notes>
+        <description>Керамический блок КЕТРА 8, 80x510x219 мм. Размеры: 80x510x219 мм. Марка прочности: М100. Морозостойкость: F50. Вес: 9,2 кг. На поддоне: 112 шт..</description>
+        <param name="Размеры" unit="мм">80x510x219</param>
+        <param name="Марка прочности">М100</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Вес" unit="кг">9,2</param>
+        <param name="На поддоне" unit="шт">112</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
