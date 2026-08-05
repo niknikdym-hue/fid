@@ -1,0 +1,38 @@
+name: Temporary inspect Ak Bars business feed
+
+on:
+  pull_request:
+    paths:
+      - akbars_yandex_business_feed.yml
+      - scripts/tmp_inspect_akbars_business_feed.py
+      - .github/workflows/tmp-inspect-akbars-business-feed.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  inspect-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.head_ref || github.ref_name }}
+
+      - name: Inspect current feed
+        run: python scripts/tmp_inspect_akbars_business_feed.py
+
+      - name: Commit inspection report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tmp-akbars-business-feed-report.json
+          if git diff --cached --quiet; then
+            echo "Report unchanged"
+          else
+            git commit -m "Add temporary business feed report"
+            git push
+          fi
