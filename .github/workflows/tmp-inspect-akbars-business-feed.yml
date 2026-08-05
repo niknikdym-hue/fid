@@ -31,6 +31,26 @@ jobs:
       - name: Install dependencies
         run: python -m pip install --disable-pip-version-check requests beautifulsoup4
 
+      - name: Patch direct category matching
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          path = Path("scripts/tmp_update_akbars_business_feed.py")
+          text = path.read_text(encoding="utf-8")
+          old = '''    if product.source_group != "brick":
+                  expected = product.source_group
+                  if product.detail_group and product.detail_group != expected:
+                      return None
+                  return expected
+          '''
+          new = '''    if product.source_group != "brick":
+                  return product.source_group
+          '''
+          if old not in text:
+              raise SystemExit("Expected category matching block was not found")
+          path.write_text(text.replace(old, new), encoding="utf-8")
+          PY
+
       - name: Refresh allowed catalog groups
         run: python scripts/tmp_update_akbars_business_feed.py
 
