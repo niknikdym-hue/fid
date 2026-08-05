@@ -1043,6 +1043,17 @@
         <shortDescription>Кирпич лицевой BRAER PRO 72.03 1 НФ, 250x120x65 мм. Формат: 1 - Одинарный. Размеры: 250x120x65 мм. Вес: 2,4 кг. Прочность: М150. Морозостойкость: F300.</shortDescription>
         <url>https://akbarskeramic.ru/catalog/product/8286-braer-pro-72-03/</url>
       </offer>
+      <offer id="8606">
+        <name>Пятый элемент. Кирпич лицевой "Баварская кладка" 0,5 НФ, рустикатор "Мюнхен"</name>
+        <vendor>Ак Барс Керамик</vendor>
+        <price>39.50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/30e/sbhsqzwgp8nov3qkzltxfjdc52w66l9l/5_element_kirpich_litsevoy_bavarskaya_kladka_0_5_nf_rustikator_myunkhen.jpg</picture>
+        <description>Пятый элемент. Кирпич лицевой "Баварская кладка" 0,5 НФ, рустикатор "Мюнхен". Производитель: Ак Барс Керамик.</description>
+        <shortDescription>Пятый элемент. Кирпич лицевой "Баварская кладка" 0,5 НФ, рустикатор "Мюнхен"</shortDescription>
+        <url>https://akbarskeramic.ru/catalog/product/8606-5-element-kirpich-litsevoy-bavarskaya-kladka-0-5-nf-rustikator-myunkhen-/</url>
+      </offer>
       <offer id="8608">
         <name>Пятый элемент. Кирпич лицевой "Баварская кладка" 0,5 НФ, рустикатор "Регенсбург"</name>
         <vendor>5 элемент</vendor>
@@ -1130,6 +1141,17 @@
         <description>Кирпич лицевой BRAER красный гладкий 0,7 НФ. Формат: 0,7 - Евроформат. Прочность: М150. Морозостойкость: F100. Цвет: Красный.</description>
         <shortDescription>Кирпич лицевой BRAER красный гладкий 0,7 НФ. Формат: 0,7 - Евроформат. Прочность: М150. Морозостойкость: F100. Цвет: Красный.</shortDescription>
         <url>https://akbarskeramic.ru/catalog/product/9116-krasnyy-gladkiy-0-7nf-braer/</url>
+      </offer>
+      <offer id="9118">
+        <name>Баварская кладка Кора дуба 0.7 НФ</name>
+        <vendor>Ак Барс Керамик</vendor>
+        <price>50.58</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/211/z4pb1e2ln0mmojq4xzlkuwv1hqvr399u/bavarskaya_kladka_kora_duba_0_7_nf.jpg</picture>
+        <description>Баварская кладка Кора дуба 0.7 НФ. Производитель: Ак Барс Керамик.</description>
+        <shortDescription>Баварская кладка Кора дуба 0.7 НФ</shortDescription>
+        <url>https://akbarskeramic.ru/catalog/product/9118-bavarskaya-kladka-kora-duba-0-7-nf/</url>
       </offer>
       <offer id="9121">
         <name>Кладка НУАР Терра 1 НФ</name>
@@ -1252,6 +1274,28 @@
         <shortDescription>Кирпич лицевой Нео Плюс (Neo Plus) 1 НФ, 250x120x65 мм. Формат: 1 - Одинарный. Размеры: 250x120x65 мм. Вес: 2,3 кг. Прочность: М175. Морозостойкость: F100.</shortDescription>
         <url>https://akbarskeramic.ru/catalog/product/10439-neo-plus-1nf/</url>
       </offer>
+      <offer id="10440">
+        <name>Блюз Премиум (Fusion Premium) 1 НФ</name>
+        <vendor>Ак Барс Керамик</vendor>
+        <price>56.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/d1c/5qvwrja74uny81xcc33cm0bawh4p35r1/fusion_premium_1_nf.jpg</picture>
+        <description>Блюз Премиум (Fusion Premium) 1 НФ. Производитель: Ак Барс Керамик.</description>
+        <shortDescription>Блюз Премиум (Fusion Premium) 1 НФ</shortDescription>
+        <url>https://akbarskeramic.ru/catalog/product/10440-fusion-premium-1-nf/</url>
+      </offer>
+      <offer id="10441">
+        <name>Черный матовый Премиум (Black Matte Premium) 1 НФ</name>
+        <vendor>Ак Барс Керамик</vendor>
+        <price>74.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/f3a/kd730ed61t3j6uoq3294rgh1nfzgnar6/black_premium_matte1_nf.jpg</picture>
+        <description>Черный матовый Премиум (Black Matte Premium) 1 НФ. Производитель: Ак Барс Керамик.</description>
+        <shortDescription>Черный матовый Премиум (Black Matte Premium) 1 НФ</shortDescription>
+        <url>https://akbarskeramic.ru/catalog/product/10441-black-premium-matte1-nf/</url>
+      </offer>
       <offer id="10467">
         <name>BRAER PRO 28.09 1 НФ</name>
         <vendor>Braer</vendor>
@@ -1262,61 +1306,6 @@
         <description>Кирпич лицевой BRAER PRO 28.09 1 НФ. Формат: 1 - Одинарный. Вес: 2,4 кг. Прочность: М150. Морозостойкость: F300.</description>
         <shortDescription>Кирпич лицевой BRAER PRO 28.09 1 НФ. Формат: 1 - Одинарный. Вес: 2,4 кг. Прочность: М150. Морозостойкость: F300.</shortDescription>
         <url>https://akbarskeramic.ru/catalog/product/10467-braer-pro-28-09/</url>
-      </offer>
-      <offer id="10480">
-        <name>Петровский Штандарт бордовый WDF</name>
-        <vendor>Faber Jar</vendor>
-        <price>50.58</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>101</categoryId>
-        <picture>https://akbarskeramic.ru/upload/iblock/53b/niw4r8ellyw3lxubtyh7rma6k0ketqw3/petrovskiy_shtandart_bordovyy_wdf.jpeg</picture>
-        <description>Петровский Штандарт бордовый WDF. Производитель: Faber Jar.</description>
-        <shortDescription>Петровский Штандарт бордовый WDF</shortDescription>
-        <url>https://akbarskeramic.ru/catalog/product/10480-petrovskiy-shtandart-cherno-krasnyy-wdf/</url>
-      </offer>
-      <offer id="10481">
-        <name>Петровский Штандарт бордовый WDF</name>
-        <vendor>Faber Jar</vendor>
-        <price>50.58</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>101</categoryId>
-        <picture>https://akbarskeramic.ru/upload/iblock/53b/niw4r8ellyw3lxubtyh7rma6k0ketqw3/petrovskiy_shtandart_bordovyy_wdf.jpeg</picture>
-        <description>Петровский Штандарт бордовый WDF. Производитель: Faber Jar.</description>
-        <shortDescription>Петровский Штандарт бордовый WDF</shortDescription>
-        <url>https://akbarskeramic.ru/catalog/product/10481-petrovskiy-shtandart-korichnevyy-wdf/</url>
-      </offer>
-      <offer id="10482">
-        <name>Петровский Штандарт бордовый WDF</name>
-        <vendor>Faber Jar</vendor>
-        <price>50.58</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>101</categoryId>
-        <picture>https://akbarskeramic.ru/upload/iblock/53b/niw4r8ellyw3lxubtyh7rma6k0ketqw3/petrovskiy_shtandart_bordovyy_wdf.jpeg</picture>
-        <description>Петровский Штандарт бордовый WDF. Производитель: Faber Jar.</description>
-        <shortDescription>Петровский Штандарт бордовый WDF</shortDescription>
-        <url>https://akbarskeramic.ru/catalog/product/10482-petrovskiy-shtandart-zhelto-krasnyy/</url>
-      </offer>
-      <offer id="10483">
-        <name>Петровский Штандарт бордовый WDF</name>
-        <vendor>Faber Jar</vendor>
-        <price>50.58</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>101</categoryId>
-        <picture>https://akbarskeramic.ru/upload/iblock/53b/niw4r8ellyw3lxubtyh7rma6k0ketqw3/petrovskiy_shtandart_bordovyy_wdf.jpeg</picture>
-        <description>Петровский Штандарт бордовый WDF. Производитель: Faber Jar.</description>
-        <shortDescription>Петровский Штандарт бордовый WDF</shortDescription>
-        <url>https://akbarskeramic.ru/catalog/product/10483-petrovskiy-shtandart-korichnevo-chernyy-wdf/</url>
-      </offer>
-      <offer id="10484">
-        <name>Петровский Штандарт бордовый WDF</name>
-        <vendor>Faber Jar</vendor>
-        <price>50.58</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>101</categoryId>
-        <picture>https://akbarskeramic.ru/upload/iblock/53b/niw4r8ellyw3lxubtyh7rma6k0ketqw3/petrovskiy_shtandart_bordovyy_wdf.jpeg</picture>
-        <description>Петровский Штандарт бордовый WDF. Производитель: Faber Jar.</description>
-        <shortDescription>Петровский Штандарт бордовый WDF</shortDescription>
-        <url>https://akbarskeramic.ru/catalog/product/10484-petrovskiy-shtandart-bordovyy-wdf/</url>
       </offer>
       <offer id="11069">
         <name>Кирпич красный полнотелый 1 НФ Бакалы М-125</name>
@@ -1493,6 +1482,17 @@
         <description>Кирпич лицевой Туман 1,4 НФ. Формат: 1,4 - Полуторный. Прочность: М150. Морозостойкость: F75.</description>
         <shortDescription>Кирпич лицевой Туман 1,4 НФ. Формат: 1,4 - Полуторный. Прочность: М150. Морозостойкость: F75.</shortDescription>
         <url>https://akbarskeramic.ru/catalog/product/11450-tuman-1-4-nf/</url>
+      </offer>
+      <offer id="11451">
+        <name>Серый Лофт 1,4 НФ (без колотой фаски)</name>
+        <vendor>Ак Барс Керамик</vendor>
+        <price>57.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/c06/bouxwqmrkq9mz1fzlk46az915vsc6c9n/seryy_loft_1_4_nf_kolotaya_faska.png</picture>
+        <description>Серый Лофт 1,4 НФ (без колотой фаски). Производитель: Ак Барс Керамик.</description>
+        <shortDescription>Серый Лофт 1,4 НФ (без колотой фаски)</shortDescription>
+        <url>https://akbarskeramic.ru/catalog/product/11451-seryy-loft-1-4-nf-kolotaya-faska/</url>
       </offer>
       <offer id="11458">
         <name>Шоколад Дикий камень 1 НФ</name>
@@ -1989,6 +1989,39 @@
         <shortDescription>Кирпич лицевой Аллегро Премиум (Allegro Premium 1,4 НФ), 250x120x88 мм. Формат: 1,4 - Полуторный. Размеры: 250x120x88 мм. Вес: 3,1 кг. Прочность: М175. Морозостойкость: F100.</shortDescription>
         <url>https://akbarskeramic.ru/catalog/product/11705-allegro-premium-1-4nf/</url>
       </offer>
+      <offer id="11708">
+        <name>Блюз Премиум (Fusion Premium) 0,9 НФ</name>
+        <vendor>Ак Барс Керамик</vendor>
+        <price>57.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/d1c/5qvwrja74uny81xcc33cm0bawh4p35r1/fusion_premium_1_nf.jpg</picture>
+        <description>Блюз Премиум (Fusion Premium) 0,9 НФ. Производитель: Ак Барс Керамик.</description>
+        <shortDescription>Блюз Премиум (Fusion Premium) 0,9 НФ</shortDescription>
+        <url>https://akbarskeramic.ru/catalog/product/11708-fusion-premium-0-9nf/</url>
+      </offer>
+      <offer id="11710">
+        <name>Блюз Премиум (Fusion Premium) 0,7 НФ</name>
+        <vendor>Ак Барс Керамик</vendor>
+        <price>48.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/17b/7zvcoal1q058xcbmtf3x6lypyqppgonb/fusion_premium_0_7nf.jpg</picture>
+        <description>Блюз Премиум (Fusion Premium) 0,7 НФ. Производитель: Ак Барс Керамик.</description>
+        <shortDescription>Блюз Премиум (Fusion Premium) 0,7 НФ</shortDescription>
+        <url>https://akbarskeramic.ru/catalog/product/11710-fusion-premium-0-7nf/</url>
+      </offer>
+      <offer id="11712">
+        <name>Блюз Премиум (Fusion Premium) 1,4 НФ</name>
+        <vendor>Ак Барс Керамик</vendor>
+        <price>67.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/d1c/5qvwrja74uny81xcc33cm0bawh4p35r1/fusion_premium_1_nf.jpg</picture>
+        <description>Блюз Премиум (Fusion Premium) 1,4 НФ. Производитель: Ак Барс Керамик.</description>
+        <shortDescription>Блюз Премиум (Fusion Premium) 1,4 НФ</shortDescription>
+        <url>https://akbarskeramic.ru/catalog/product/11712-fusion-premium-1-4nf/</url>
+      </offer>
       <offer id="11714">
         <name>Кьянти Премиум (Chianti Premium) 1,4 НФ</name>
         <vendor>Красная Гвардия</vendor>
@@ -2098,6 +2131,17 @@
         <description>Кирпич лицевой Марс, ригель, 500x85x45 мм. Формат: Ригель. Размеры: 500x85x45 мм. Прочность: М150. Морозостойкость: F75.</description>
         <shortDescription>Кирпич лицевой Марс, ригель, 500x85x45 мм. Формат: Ригель. Размеры: 500x85x45 мм. Прочность: М150. Морозостойкость: F75.</shortDescription>
         <url>https://akbarskeramic.ru/catalog/product/11819-mars-rigely/</url>
+      </offer>
+      <offer id="11850">
+        <name>Туман, ригель</name>
+        <vendor>Ак Барс Керамик</vendor>
+        <price>102.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/7ed/z3mxsvprdf5li380irj6386u8c9m0kin/tuman_rigel.png</picture>
+        <description>Туман, ригель. Производитель: Ак Барс Керамик.</description>
+        <shortDescription>Туман, ригель</shortDescription>
+        <url>https://akbarskeramic.ru/catalog/product/11850-tuman-rigel/</url>
       </offer>
       <offer id="13463">
         <name>Флеш КОСМО 1,4 НФ</name>
@@ -3023,6 +3067,17 @@
         <shortDescription>Зеленая звезда (Green star)</shortDescription>
         <url>https://akbarskeramic.ru/catalog/product/16558-zelenaya-zvezda-green-star/</url>
       </offer>
+      <offer id="16559">
+        <name>Графит</name>
+        <vendor>Ак Барс Керамик</vendor>
+        <price>55.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>101</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/fb9/t97iyxbgn77k88aq29al5d93i5ecplcl/grafit.jpg</picture>
+        <description>Графит. Производитель: Ак Барс Керамик.</description>
+        <shortDescription>Графит</shortDescription>
+        <url>https://akbarskeramic.ru/catalog/product/16559-grafit/</url>
+      </offer>
       <offer id="16560">
         <name>Черный глянец</name>
         <vendor>Кощаковский завод</vendor>
@@ -3034,16 +3089,27 @@
         <shortDescription>Черный глянец</shortDescription>
         <url>https://akbarskeramic.ru/catalog/product/16560-chernyy-glyanets/</url>
       </offer>
-      <offer id="1237">
-        <name>Белый кортекс (Белый Cortex) 1 НФ</name>
-        <vendor>Красная Гвардия</vendor>
-        <price>67.00</price>
+      <offer id="652">
+        <name>ОПГС</name>
+        <vendor>55-65%</vendor>
+        <price>950.00</price>
         <currencyId>RUB</currencyId>
-        <categoryId>102</categoryId>
-        <picture>https://akbarskeramic.ru/upload/iblock/072/li5re80day6c0g89bjzh8xbzt3igup49/krasnaya_gvardiya_belyy_cortex_1_nf.jpg</picture>
-        <description>Белый кортекс (Белый Cortex) 1 НФ. Производитель: Красная Гвардия.</description>
-        <shortDescription>Белый кортекс (Белый Cortex) 1 НФ</shortDescription>
-        <url>https://akbarskeramic.ru/catalog/product/1237-blok-2-1-nf-keramicheskiy-klyuchischi/</url>
+        <categoryId>103</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/853/f1az124r8i32j9ywnm29qs33g4ex8s1c/opgs.jpg</picture>
+        <description>ОПГС. Производитель: 55-65%.</description>
+        <shortDescription>ОПГС</shortDescription>
+        <url>https://akbarskeramic.ru/catalog/product/652-opgs/</url>
+      </offer>
+      <offer id="2748">
+        <name>Речной песок</name>
+        <vendor>СК Кама</vendor>
+        <price>400.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>103</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/3bb/uyxt5mmrkc6ac0vildc7bqhcoyp21slj/rechnoy_pesok.jpg</picture>
+        <description>Речной песок. Производитель: СК Кама.</description>
+        <shortDescription>Речной песок</shortDescription>
+        <url>https://akbarskeramic.ru/catalog/product/2748-rechnoy-pesok/</url>
       </offer>
       <offer id="12421">
         <name>Керамический гранит RF 01 30,6x60,9 см</name>
@@ -3081,7 +3147,7 @@
       <offer id="12435">
         <name>Плинтус RF 01</name>
         <vendor>Estima Сити</vendor>
-        <price>240.00</price>
+        <price>1240.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/ba5/xqnbsxecu4rmcd4bclt2zsng5d1qdwia/plintus_rf_01.jpg</picture>
@@ -3103,7 +3169,7 @@
       <offer id="12441">
         <name>Мозаика MO 01</name>
         <vendor>Estima Сити</vendor>
-        <price>765.00</price>
+        <price>1765.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/ca8/zncyvexngi0o0tlu9qlvtghjpwauzm5m/mozaika_mo01.jpg</picture>
@@ -3257,7 +3323,7 @@
       <offer id="12487">
         <name>Плинтус RF 02</name>
         <vendor>Estima Сити</vendor>
-        <price>240.00</price>
+        <price>2240.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/c46/v00jx2v1f5kuah8b9547p77928t889lm/plintus_rf_02.jpg</picture>
@@ -3378,7 +3444,7 @@
       <offer id="12519">
         <name>Плинтус SI 01</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>1380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/73b/kcw6gikykv73vc7q6cgz31cps2h390j9/plintus_si_01.png</picture>
@@ -3444,7 +3510,7 @@
       <offer id="12532">
         <name>Плинтус SI 02</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>2380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/07c/gfhkcabgrse22vbwzxa1r1uqpdzhhzeg/plintus_si_02.png</picture>
@@ -3510,7 +3576,7 @@
       <offer id="12544">
         <name>Плинтус SI 04</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>4380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/5bb/lv0973ya2nlcpel3fmtopfq65uhfq5bk/plintus_si_04.png</picture>
@@ -3807,7 +3873,7 @@
       <offer id="12638">
         <name>Плинтус LN 01</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>1320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/cbb/2obmf6m74hli0vjinruwskq6uwfdzn9d/plintus_ln_01.png</picture>
@@ -3917,7 +3983,7 @@
       <offer id="12669">
         <name>Плинтус LN 02</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>2320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/176/yjkk611fqifcd47m1lcbr3wnqp4b1rmx/plintus_ln_02.png</picture>
@@ -4027,7 +4093,7 @@
       <offer id="12697">
         <name>Плинтус LN 03</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>3320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/075/lvbdfmyu5npsje34wfoacpt0wo8aka21/plintus_ln_03.png</picture>
@@ -4170,7 +4236,7 @@
       <offer id="12736">
         <name>Плинтус LN 04</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>4320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/26b/099i64httwix0ixj1zwqow0gvz87d78j/plintus_ln_04.png</picture>
@@ -4269,7 +4335,7 @@
       <offer id="12754">
         <name>Плинтус KW 01</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>1320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/80a/l6l2zjkt881h4hfgkszof13t1ctifb9v/plintus_kw_01.png</picture>
@@ -4335,7 +4401,7 @@
       <offer id="12766">
         <name>Плинтус KW 02</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>2320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/20f/hmfghmwvetif6v3ceqqd95ugnb18f5jd/plintus_kw_02.png</picture>
@@ -4390,7 +4456,7 @@
       <offer id="12776">
         <name>Плинтус KW 03</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>3320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/4f1/aqredn0n92rfhmd4dg0x77gvv23eyvxq/plintus_kw_03.png</picture>
@@ -4544,7 +4610,7 @@
       <offer id="12808">
         <name>Плинтус AV 03</name>
         <vendor>Ametis by Estima</vendor>
-        <price>730.00</price>
+        <price>3730.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/528/k8ywj1cv63kcov73wf3holx8lc1u72u4/plintus_av_03.png</picture>
@@ -4720,7 +4786,7 @@
       <offer id="12853">
         <name>Плинтус CW 02</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>2320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/a2f/z52aqjnp60zzuue1g8c18ho6k2ghj7v1/plintus_cw_02.png</picture>
@@ -4731,7 +4797,7 @@
       <offer id="12855">
         <name>Плинтус CW 03</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>3320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/a6a/zafzpvfarn8gsox6x8vz32v23vbjc0cn/plintus_cw_03.png</picture>
@@ -4786,7 +4852,7 @@
       <offer id="12865">
         <name>Плинтус CW 04</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>4320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/b66/rij8d08mvp3o8my4cuwgswtibosjk1u6/plintus_cw_04.png</picture>
@@ -5424,7 +5490,7 @@
       <offer id="13006">
         <name>Плинтус SR 01</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>1380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/478/dlb3cnt7f1nl7bi237u7llqfo8d7zr8k/plintus_sr_01.png</picture>
@@ -5435,7 +5501,7 @@
       <offer id="13008">
         <name>Плинтус SR 02</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>2380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/1b1/k5dqcbknyn59w7cvuho71rv26fw416gy/plintus_sr_02.jpg</picture>
@@ -5446,7 +5512,7 @@
       <offer id="13010">
         <name>Плинтус SR 03</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>3380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/eba/0zruwsp2afopnbih98v5mraoeg0710zs/plintus_sr_03.jpg</picture>
@@ -5457,7 +5523,7 @@
       <offer id="13012">
         <name>Плинтус SR 04</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>4380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/79d/0r1xbpn0co2oml2ymlxryg86qp0btipc/plintus_sr_04.jpg</picture>
@@ -5468,7 +5534,7 @@
       <offer id="13014">
         <name>Плинтус SR 05</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>5380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/dac/4cqat24k0oem9mfufigw3069vm8w2y4u/plintus_sr_05.jpg</picture>
@@ -5479,7 +5545,7 @@
       <offer id="13016">
         <name>Плинтус SR 06</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>6380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/3d2/9prub2kzrfgoza4m179d2pj0dg8p76zu/plintus_sr_06.jpg</picture>
@@ -5490,7 +5556,7 @@
       <offer id="13018">
         <name>Плинтус SR 07</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>7380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/309/i6dpk9df7g00ivoc7y0ve079t1u02pqr/plintus_sr_07.jpg</picture>
@@ -5501,7 +5567,7 @@
       <offer id="13020">
         <name>Плинтус AT 02</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>2380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/7ff/b76ygnundmn2nn4qd4lwf57lyx5tb3h0/plintus_at_02.png</picture>
@@ -8064,7 +8130,7 @@
       <offer id="13615">
         <name>Плинтус CM 01</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>1320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/569/0h1khjswa6tuifzm8owv4194dolgpzdl/plintus_cm_01.png</picture>
@@ -8075,7 +8141,7 @@
       <offer id="13617">
         <name>Плинтус CM 02</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>2320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/995/47fli8vci33bafj3ra2epr90hyy6a5pt/plintus_cm_02.png</picture>
@@ -8207,7 +8273,7 @@
       <offer id="13641">
         <name>Плинтус SF 01</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>1320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/f05/yusub1zer5sfljlhciyumpo7i1sz9u30/plintus_sf_01.png</picture>
@@ -8262,7 +8328,7 @@
       <offer id="13651">
         <name>Плинтус SF 02</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>2320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/396/hirm0a0zlw8jiwnu7mo4p8a2yrfto865/plintus_sf_02.png</picture>
@@ -8405,7 +8471,7 @@
       <offer id="13680">
         <name>Плинтус TE 04</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>4320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/ed8/z3zq3740y7uts86ffma5y09kais2pk03/plintus_te_04.png</picture>
@@ -8537,7 +8603,7 @@
       <offer id="13705">
         <name>Плинтус GB 01</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>1320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/869/zykpr6gdxa4qhyqkhesiq30hdwfs997l/plintus_gb_01.png</picture>
@@ -8548,7 +8614,7 @@
       <offer id="13707">
         <name>Плинтус GB 02</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>2320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/1ed/v8mg640hhgl68ordo1fomnxf4k8povrt/plintus_gb_02.jpg</picture>
@@ -8559,7 +8625,7 @@
       <offer id="13709">
         <name>Плинтус GB 03</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>3320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/8e4/vss21mubpqt16ulm7uz1anjfjh2tbfjv/plintus_gb_03.png</picture>
@@ -8570,7 +8636,7 @@
       <offer id="13711">
         <name>Плинтус GB 04</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>4320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/4ea/0r3admilrfizoeezu74388ieenojoo4u/plintus_gb_04.png</picture>
@@ -8757,7 +8823,7 @@
       <offer id="13745">
         <name>Плинтус TE 01</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>1320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/e83/dc6m4h31xf1wnibbm580x5jj1zh42g3n/plintus_te_01.png</picture>
@@ -8768,7 +8834,7 @@
       <offer id="13747">
         <name>Плинтус TE 02</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>2320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/fdc/qdjtscz5we8n1piaaveql6q8pt4348bh/plintus_te_02.png</picture>
@@ -8779,7 +8845,7 @@
       <offer id="13749">
         <name>Плинтус TE 03</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>3320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/816/713v1hxxjr7x4dsa9asohzfp0eixsyh0/plintus_te_03.png</picture>
@@ -8834,7 +8900,7 @@
       <offer id="13763">
         <name>Плинтус NL 01</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>1320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/d9a/63q9bqusmxp68mvdwa2bbp27vgntu8lv/plintus_nl_01.png</picture>
@@ -8845,7 +8911,7 @@
       <offer id="13765">
         <name>Плинтус NL 02</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>2320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/633/me6kwnja4ic4hrepzv4fno1rb96gic82/plintus_nl_02.png</picture>
@@ -8856,7 +8922,7 @@
       <offer id="13767">
         <name>Плинтус NL 03</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>3320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/fec/9f1ao5ip4b6oitnec9s8munf5po5oiiv/plintus_nl_03.png</picture>
@@ -8867,7 +8933,7 @@
       <offer id="13769">
         <name>Плинтус NL 04</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>4320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/921/tphzq9iuwtm9wc582cqk33oi6eqnlnbj/plintus_nl_04.png</picture>
@@ -9186,7 +9252,7 @@
       <offer id="13837">
         <name>Плинтус GF 01</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>1320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/526/ngek83u8jd024mno7eiswqjsfeq52i1r/plintus_gf_01.png</picture>
@@ -9197,7 +9263,7 @@
       <offer id="13839">
         <name>Плинтус GF 02</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>2320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/3ea/98u107mlqtnv582i7vkx2hd4jj99tpab/plintus_gf_02.png</picture>
@@ -9252,7 +9318,7 @@
       <offer id="13865">
         <name>Плинтус RM 01</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>1320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/971/03urr5x23lmgwi095dkmvt2caf50sbd9/plintus_rm_01.png</picture>
@@ -9527,7 +9593,7 @@
       <offer id="13938">
         <name>Плинтус TN 01</name>
         <vendor>Estima</vendor>
-        <price>350.00</price>
+        <price>1350.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/58b/k4e4rkr83dalxp7gt3ox2fe7k90hedc2/plintus_tn_01.png</picture>
@@ -9549,7 +9615,7 @@
       <offer id="13942">
         <name>Плинтус TN 02</name>
         <vendor>Estima</vendor>
-        <price>350.00</price>
+        <price>2350.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/a40/st7yt3j68sx47glmr1tme7fplsvk5cua/plintus_tn_02.png</picture>
@@ -9560,7 +9626,7 @@
       <offer id="13944">
         <name>Плинтус TN 03</name>
         <vendor>Estima</vendor>
-        <price>350.00</price>
+        <price>3350.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/97f/zrc50vzxoo3fkgahkah4g4qlphxdipkq/plintus_tn_03.png</picture>
@@ -10649,7 +10715,7 @@
       <offer id="14167">
         <name>Плинтус SF 03</name>
         <vendor>Estima</vendor>
-        <price>320.00</price>
+        <price>3320.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/216/2nho50npdr21a1qp1wp4ouhkpjsw0i7l/plintus_sf_03_nepolirovannyy.png</picture>
@@ -10814,7 +10880,7 @@
       <offer id="14202">
         <name>Плинтус LF 01</name>
         <vendor>Estima Профи</vendor>
-        <price>275.00</price>
+        <price>1275.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/0ce/6p6mtzyn662pa8affhqv66v2ir27oh9x/plintus_lf_01.png</picture>
@@ -10825,7 +10891,7 @@
       <offer id="14204">
         <name>Плинтус LF 02</name>
         <vendor>Estima Профи</vendor>
-        <price>275.00</price>
+        <price>2275.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/f1a/ce4fnh0wf4ifgvgdus8twxoa80je3k3i/plintus_lf_02.png</picture>
@@ -10847,7 +10913,7 @@
       <offer id="14208">
         <name>Плинтус TF 03</name>
         <vendor>Estima</vendor>
-        <price>275.00</price>
+        <price>3275.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/12f/hqomuvviac7jk9ca7s3r6h0u1ydpu7n6/plintus_tf_03.png</picture>
@@ -10869,7 +10935,7 @@
       <offer id="14212">
         <name>Плинтус RW 01</name>
         <vendor>Estima Профи</vendor>
-        <price>275.00</price>
+        <price>1275.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/4ca/sjn5bhrtd2ufird57g18ab86x353i1y0/plintus_rw_01.png</picture>
@@ -10946,7 +11012,7 @@
       <offer id="14228">
         <name>Плинтус TF 01</name>
         <vendor>Estima Профи</vendor>
-        <price>275.00</price>
+        <price>1275.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/27b/0hymxxxd92489gq0soaein948aobsmlq/plintus_tf_01.png</picture>
@@ -10979,7 +11045,7 @@
       <offer id="14235">
         <name>Плинтус RW 03</name>
         <vendor>Estima Профи</vendor>
-        <price>275.00</price>
+        <price>3275.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/c4c/emxfd70r98rg4z8ql1imrfofbb8p6dmc/plintus_rw_03.png</picture>
@@ -11320,7 +11386,7 @@
       <offer id="14306">
         <name>Плинтус CA 03</name>
         <vendor>Estima Профи</vendor>
-        <price>275.00</price>
+        <price>3275.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/46b/11wk9rnx7j74fgu8lconheyogsner7in/plintus_ca_03.png</picture>
@@ -11331,7 +11397,7 @@
       <offer id="14308">
         <name>Плинтус CA 05</name>
         <vendor>Estima Профи</vendor>
-        <price>275.00</price>
+        <price>5275.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/d38/ka2z4ava8wx95ao831tepgcf8mvcu9kl/plintus_ca_05.png</picture>
@@ -11386,7 +11452,7 @@
       <offer id="14318">
         <name>Плинтус GO 01</name>
         <vendor>Estima Профи</vendor>
-        <price>275.00</price>
+        <price>1275.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/e19/t9g0rf7z1ze8bgakvgxr8rzszvu5je8k/plintus_go_01.png</picture>
@@ -11419,7 +11485,7 @@
       <offer id="14324">
         <name>Плинтус GO 02</name>
         <vendor>Estima Профи</vendor>
-        <price>275.00</price>
+        <price>2275.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/062/51bdhrcbiia76wdwopvj5qm1akpk2hs3/plintus_go_02.png</picture>
@@ -11452,7 +11518,7 @@
       <offer id="14330">
         <name>Плинтус GO 03</name>
         <vendor>Estima Профи</vendor>
-        <price>275.00</price>
+        <price>3275.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/437/o9z99uzc8kekrdleq0pjz9jg4k96irdm/plintus_go_03.png</picture>
@@ -11485,7 +11551,7 @@
       <offer id="14336">
         <name>Плинтус CA 01</name>
         <vendor>Estima Профи</vendor>
-        <price>275.00</price>
+        <price>1275.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/477/njf0slv2qucae8pw457qk11mo05hkfws/plintus_ca_01.png</picture>
@@ -11518,7 +11584,7 @@
       <offer id="14342">
         <name>Плинтус CA 04</name>
         <vendor>Estima Профи</vendor>
-        <price>275.00</price>
+        <price>4275.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/e3c/nlzuptwc8pynryy5w39nyavdj2h44tbm/plintus_ca_04.png</picture>
@@ -11793,7 +11859,7 @@
       <offer id="14407">
         <name>Плинтус MM 01</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>1380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/f87/ro5f5t6yuuhq7z4b2ezsc8vk6uqrmrya/plintus_mm_01.png</picture>
@@ -11892,7 +11958,7 @@
       <offer id="14425">
         <name>Плинтус TL 02</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>2380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/260/x1op7cruzo0hjfp8kafsaylubvvzqjlk/plintus_tl_02.jpg</picture>
@@ -11903,7 +11969,7 @@
       <offer id="14427">
         <name>Плинтус TL 03</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>3380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/80f/kex1758bl0qhjf4k6ihqpjzqly3mwdky/plintus_tl_03.jpg</picture>
@@ -12167,7 +12233,7 @@
       <offer id="14478">
         <name>Плинтус MM 02</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>2380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/efe/lxkdm74uatnl95g7v35ldb2xlmtxqr19/plintus_mm_02.png</picture>
@@ -12255,7 +12321,7 @@
       <offer id="14505">
         <name>Плинтус TL 01</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>1380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/70e/8o4urtp3n2lujckvuo2pi18ubs1jf0gt/plintus_tl_01.jpg</picture>
@@ -12794,7 +12860,7 @@
       <offer id="14624">
         <name>Плинтус KA 01</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>1380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/4c1/s8uw4a0aegcpdyvn9ig2l8y72m8y231t/plintus_ka_01.jpg</picture>
@@ -12805,7 +12871,7 @@
       <offer id="14626">
         <name>Плинтус KA 03</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>3380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/b1c/euqfzqsx9zfalmr4qsracqqagbslddio/plintus_ka_03.jpg</picture>
@@ -13410,7 +13476,7 @@
       <offer id="14761">
         <name>Плинтус AV 01</name>
         <vendor>Ametis by Estima</vendor>
-        <price>730.00</price>
+        <price>1730.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/409/cjokfk3em8z7nb6i5g7ckynnd23xv0h4/plintus_av_01.png</picture>
@@ -13421,7 +13487,7 @@
       <offer id="14763">
         <name>Плинтус AV 02</name>
         <vendor>Ametis by Estima</vendor>
-        <price>730.00</price>
+        <price>2730.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/58d/fr98v7ljp3gisjiv18wn81rlbhxf5vwv/plintus_av_02.png</picture>
@@ -13432,7 +13498,7 @@
       <offer id="14765">
         <name>Плинтус AV 04</name>
         <vendor>Ametis by Estima</vendor>
-        <price>730.00</price>
+        <price>4730.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/f30/u4j1zxk1hg9389t3bnf4qwq67cwj9rhp/plintus_av_04.png</picture>
@@ -13487,7 +13553,7 @@
       <offer id="14777">
         <name>Плинтус AT 01</name>
         <vendor>Ametis by Estima</vendor>
-        <price>380.00</price>
+        <price>1380.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>103</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/d5f/6ckq0tj3e59bbs8ta5tbpb56ligfec9d/plintus_at_01.png</picture>
@@ -14466,7 +14532,7 @@
       <offer id="646">
         <name>Обогащенный песок №1</name>
         <vendor>СК Кама</vendor>
-        <price>900.00</price>
+        <price>1900.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>105</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/07f/2ka7n31mggdwlc9qt1yeqz04gs9dgzda/obogashchennyy_pesok_1.jpg</picture>
@@ -14477,7 +14543,7 @@
       <offer id="647">
         <name>Обогащенный песок №2</name>
         <vendor>СК Кама</vendor>
-        <price>900.00</price>
+        <price>2900.00</price>
         <currencyId>RUB</currencyId>
         <categoryId>105</categoryId>
         <picture>https://akbarskeramic.ru/upload/iblock/9bc/tyi6yb24v01xo2l56a2dthgd1v43lvrn/obogashchennyy_pesok_2.jpg</picture>
@@ -14507,17 +14573,6 @@
         <shortDescription>Гравий 5-20 мм</shortDescription>
         <url>https://akbarskeramic.ru/catalog/product/649-graviy-20/</url>
       </offer>
-      <offer id="652">
-        <name>ОПГС</name>
-        <vendor>55-65%</vendor>
-        <price>950.00</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>105</categoryId>
-        <picture>https://akbarskeramic.ru/upload/iblock/853/f1az124r8i32j9ywnm29qs33g4ex8s1c/opgs.jpg</picture>
-        <description>ОПГС. Производитель: 55-65%.</description>
-        <shortDescription>ОПГС</shortDescription>
-        <url>https://akbarskeramic.ru/catalog/product/652-opgs/</url>
-      </offer>
       <offer id="670">
         <name>Щебень гранитный фр. 5-20 мм Дружинино</name>
         <vendor>Ак Барс Керамик</vendor>
@@ -14539,17 +14594,6 @@
         <description>Известняковый щебень (Жигулевский) М600 фр. 20-40 мм, фр. 40-70 мм. Производитель: СК Кама.</description>
         <shortDescription>Известняковый щебень (Жигулевский) М600 фр. 20-40 мм, фр. 40-70 мм</shortDescription>
         <url>https://akbarskeramic.ru/catalog/product/1278-izvestnyakoviy-scheben/</url>
-      </offer>
-      <offer id="2748">
-        <name>Речной песок</name>
-        <vendor>СК Кама</vendor>
-        <price>400.00</price>
-        <currencyId>RUB</currencyId>
-        <categoryId>105</categoryId>
-        <picture>https://akbarskeramic.ru/upload/iblock/3bb/uyxt5mmrkc6ac0vildc7bqhcoyp21slj/rechnoy_pesok.jpg</picture>
-        <description>Речной песок. Производитель: СК Кама.</description>
-        <shortDescription>Речной песок</shortDescription>
-        <url>https://akbarskeramic.ru/catalog/product/2748-rechnoy-pesok/</url>
       </offer>
       <offer id="11315">
         <name>Щебень гранитный фр. 20-40 мм, фр. 40-70 мм</name>
