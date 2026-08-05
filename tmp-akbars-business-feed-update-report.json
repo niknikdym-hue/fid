@@ -1,0 +1,61 @@
+{
+  "old_offer_count": 1328,
+  "collected_seed_count": 1343,
+  "detail_products_with_price": 1332,
+  "new_offer_count": 1332,
+  "counts": {
+    "101": 280,
+    "102": 0,
+    "103": 972,
+    "104": 67,
+    "105": 13
+  },
+  "new_ids_count": 10,
+  "new_ids_first_100": [
+    "8606",
+    "9118",
+    "10440",
+    "10441",
+    "11451",
+    "11708",
+    "11710",
+    "11712",
+    "11850",
+    "16559"
+  ],
+  "removed_ids_count": 6,
+  "removed_ids_first_100": [
+    "1237",
+    "10480",
+    "10481",
+    "10482",
+    "10483",
+    "10484"
+  ],
+  "no_price_count": 11,
+  "no_price_ids_first_100": [
+    "561",
+    "595",
+    "1237",
+    "1274",
+    "10477",
+    "10478",
+    "10480",
+    "10481",
+    "10482",
+    "10483",
+    "10484"
+  ],
+  "request_error_count": 0,
+  "request_errors_first_30": {},
+  "skipped_jbi_count": 0,
+  "skipped_jbi_ids": [],
+  "skipped_category_mismatch_count": 0,
+  "skipped_category_mismatch_ids_first_100": [],
+  "source_pages": {
+    "brick": "https://akbarskeramic.ru/catalog/kirpich/",
+    "103": "https://akbarskeramic.ru/catalog/keramogranit/",
+    "104": "https://akbarskeramic.ru/catalog/bruschatka/",
+    "105": "https://akbarskeramic.ru/catalog/nerudnye-materialy/"
+  }
+}
