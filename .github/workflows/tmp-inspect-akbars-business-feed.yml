@@ -6,6 +6,7 @@ on:
       - akbars_yandex_business_feed.yml
       - scripts/tmp_inspect_akbars_business_feed.py
       - .github/workflows/tmp-inspect-akbars-business-feed.yml
+      - tmp-akbars-business-feed-trigger.txt
   workflow_dispatch:
 
 permissions:
