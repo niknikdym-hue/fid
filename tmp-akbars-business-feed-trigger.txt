@@ -1,1 +1,1 @@
-Refresh the current feed after fixing direct category matching.
+Refresh the feed with verified detail prices and allow an empty block category.
