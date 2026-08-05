@@ -1,0 +1,1 @@
+Inspect the current feed categories before refreshing the catalog data.
