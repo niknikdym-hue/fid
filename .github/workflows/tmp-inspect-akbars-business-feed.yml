@@ -1,10 +1,10 @@
-name: Temporary inspect Ak Bars business feed
+name: Temporary refresh Ak Bars business feed
 
 on:
   pull_request:
     paths:
       - akbars_yandex_business_feed.yml
-      - scripts/tmp_inspect_akbars_business_feed.py
+      - scripts/tmp_update_akbars_business_feed.py
       - .github/workflows/tmp-inspect-akbars-business-feed.yml
       - tmp-akbars-business-feed-trigger.txt
   workflow_dispatch:
@@ -13,9 +13,9 @@ permissions:
   contents: write
 
 jobs:
-  inspect-feed:
+  refresh-feed:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 30
     steps:
       - name: Checkout repository branch
         uses: actions/checkout@v4
@@ -23,17 +23,59 @@ jobs:
           fetch-depth: 0
           ref: ${{ github.head_ref || github.ref_name }}
 
-      - name: Inspect current feed
-        run: python scripts/tmp_inspect_akbars_business_feed.py
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
 
-      - name: Commit inspection report
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check requests beautifulsoup4
+
+      - name: Refresh allowed catalog groups
+        run: python scripts/tmp_update_akbars_business_feed.py
+
+      - name: Validate generated feed
+        run: |
+          python - <<'PY'
+          import json
+          import re
+          import xml.etree.ElementTree as ET
+          path = "akbars_yandex_business_feed.yml"
+          root = ET.parse(path).getroot()
+          categories = {c.get("id"): (c.text or "").strip() for c in root.findall("./shop/categories/category")}
+          expected = {"101": "Кирпич", "102": "Блоки", "103": "Керамогранит", "104": "Тротуарная плитка", "105": "Нерудные материалы"}
+          assert categories == expected, categories
+          offers = root.findall("./shop/offers/offer")
+          assert len(offers) >= 500, len(offers)
+          counts = {cid: 0 for cid in expected}
+          seen = set()
+          bad = []
+          pattern = re.compile(r"(?:железобетон|\bжби\b|сваи|плит[аы] перекрытия|\bфбс\b|кольц[ао] колод)", re.I)
+          for offer in offers:
+              oid = offer.get("id")
+              assert oid and oid not in seen, oid
+              seen.add(oid)
+              cid = (offer.findtext("categoryId") or "").strip()
+              assert cid in expected, cid
+              counts[cid] += 1
+              price = float((offer.findtext("price") or "0").replace(",", "."))
+              assert price > 0, (oid, price)
+              haystack = " ".join((offer.findtext(tag) or "") for tag in ("name", "description", "shortDescription", "url"))
+              if pattern.search(haystack):
+                  bad.append((oid, haystack[:160]))
+          assert all(counts.values()), counts
+          assert not bad, bad[:10]
+          print(json.dumps({"offers": len(offers), "counts": counts}, ensure_ascii=False))
+          PY
+
+      - name: Commit refreshed feed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add tmp-akbars-business-feed-report.json
+          git add akbars_yandex_business_feed.yml tmp-akbars-business-feed-update-report.json
           if git diff --cached --quiet; then
-            echo "Report unchanged"
+            echo "Feed is already current"
           else
-            git commit -m "Add temporary business feed report"
+            git commit -m "Update Ak Bars Yandex Business feed"
             git push
           fi
