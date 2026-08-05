@@ -1,1 +1,1 @@
-Inspect the current feed categories before refreshing the catalog data.
+Refresh the current feed after fixing direct category matching.
