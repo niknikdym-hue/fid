@@ -1,0 +1,150 @@
+{
+  "root_tag": "yml_catalog",
+  "catalog_date": null,
+  "offer_count": 778,
+  "categories": [
+    {
+      "id": "101",
+      "name": "Кирпич",
+      "offer_count": 267,
+      "looks_like_jbi": false,
+      "examples": [
+        {
+          "id": "11087",
+          "name": "Пятый элемент. Кирпич 0,7 НФ АЛЬТ Мюнхен",
+          "url": "https://akbarskeramic.ru/catalog/product/11087-kirpich-0-7nf-alt-myunkhen-pyatyy-element/",
+          "price": "56.00"
+        },
+        {
+          "id": "11084",
+          "name": "Пятый элемент. Кирпич 0,7 НФ Регенсбург Классик",
+          "url": "https://akbarskeramic.ru/catalog/product/11084-kirpich-0-7-nf-regensburg-klassik-pyatyy-element/",
+          "price": "56.00"
+        },
+        {
+          "id": "11085",
+          "name": "Пятый элемент. Кирпич 0,96 НФ Регенсбург руст 4;5",
+          "url": "https://akbarskeramic.ru/catalog/product/11085-kirpich-0-96nf-regensburg-rust-4-5-pyatyy-element/",
+          "price": "66.50"
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "name": "Блоки",
+      "offer_count": 19,
+      "looks_like_jbi": false,
+      "examples": [
+        {
+          "id": "1288",
+          "name": "Керамический блок KERAKAM 12, 510x120x219 мм",
+          "url": "https://akbarskeramic.ru/catalog/product/1288-kerakam-12/",
+          "price": "150.00"
+        },
+        {
+          "id": "1299",
+          "name": "Керамический блок KERAKAM 25+, 129x250x219 мм",
+          "url": "https://akbarskeramic.ru/catalog/product/1299-kerakam-25%2B/",
+          "price": "138.00"
+        },
+        {
+          "id": "1284",
+          "name": "Керамический блок KERAKAM 25, 250x250x219 мм",
+          "url": "https://akbarskeramic.ru/catalog/product/1284-kerakam-25/",
+          "price": "130.00"
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "name": "Керамогранит",
+      "offer_count": 451,
+      "looks_like_jbi": false,
+      "examples": [
+        {
+          "id": "14724",
+          "name": "Керамический гранит AT 01 60x120 см",
+          "url": "https://akbarskeramic.ru/catalog/product/14724-keramicheskiy-granit-at-01-60x120-sm/",
+          "price": "4130.00"
+        },
+        {
+          "id": "14722",
+          "name": "Керамический гранит AT 01 60x60 см",
+          "url": "https://akbarskeramic.ru/catalog/product/14722-keramicheskiy-granit-at-01-60x60-sm/",
+          "price": "3830.00"
+        },
+        {
+          "id": "14716",
+          "name": "Керамический гранит AT 01 80x160 см",
+          "url": "https://akbarskeramic.ru/catalog/product/14716-keramicheskiy-granit-at-01-80x160-sm/",
+          "price": "4930.00"
+        }
+      ]
+    },
+    {
+      "id": "104",
+      "name": "Тротуарная плитка",
+      "offer_count": 38,
+      "looks_like_jbi": false,
+      "examples": [
+        {
+          "id": "7754",
+          "name": "Газонная решетка \"Меба\"",
+          "url": "https://akbarskeramic.ru/catalog/product/7754-gazonnaya-reshetka-meba/",
+          "price": "1782.00"
+        },
+        {
+          "id": "7751",
+          "name": "Тротуарная плитка Домино, Серый, h=60 мм",
+          "url": "https://akbarskeramic.ru/catalog/product/7751-trotuarnaya-plitka-domino-seryj-h-60-mm/",
+          "price": "1708.00"
+        },
+        {
+          "id": "7775",
+          "name": "Тротуарная плитка Классико круговая, Белый, h=60 мм",
+          "url": "https://akbarskeramic.ru/catalog/product/7775-trotuarnaya-plitka-klassiko-krugovaya-belyj-h-60-mm/",
+          "price": "1720.00"
+        }
+      ]
+    },
+    {
+      "id": "105",
+      "name": "Нерудные материалы",
+      "offer_count": 3,
+      "looks_like_jbi": false,
+      "examples": [
+        {
+          "id": "11576",
+          "name": "ПГС",
+          "url": "https://akbarskeramic.ru/catalog/product/11576-pgs/",
+          "price": "950.00"
+        },
+        {
+          "id": "11315",
+          "name": "Щебень гранитный фр. 20-40 мм, фр. 40-70 мм",
+          "url": "https://akbarskeramic.ru/catalog/product/11315-shcheben-granitnyy/",
+          "price": "3000.00"
+        },
+        {
+          "id": "11316",
+          "name": "Щебень гранитный фр. 80-180 мм",
+          "url": "https://akbarskeramic.ru/catalog/product/11316-shcheben-granitnyy%2080-180mm/",
+          "price": "3000.00"
+        }
+      ]
+    }
+  ],
+  "offer_child_tags": {
+    "name": 778,
+    "vendor": 778,
+    "price": 778,
+    "currencyId": 778,
+    "categoryId": 778,
+    "picture": 778,
+    "description": 778,
+    "shortDescription": 778,
+    "url": 778
+  },
+  "jbi_like_offer_count": 0,
+  "jbi_like_offer_ids_first_30": []
+}
