@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-08-06 13:50">
+  <shop>
+    <name>Ак Барс Керамик — акционный кирпич</name>
+    <company>Ак Барс Керамик</company>
+    <url>https://akbarskeramic.ru</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Акционный кирпич Кощаковского завода</category>
+    </categories>
+    <offers>
+      <offer id="14844" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/14844-flesh-cosmo-rif/</url>
+        <price>25.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/349/rp5dgzdvqu7wd0gbdsygqwtbxczrkpm4/780_557_240cd750bba9870f18aada2478b24840a/flesh_kosmo_rif.png</picture>
+        <name>Кирпич лицевой ФЛЕШ КОСМО РИФ 1 НФ — акция</name>
+        <typePrefix>Кирпич лицевой акционный</typePrefix>
+        <vendor>Кощаковский завод</vendor>
+        <model>Кирпич лицевой ФЛЕШ КОСМО РИФ 1 НФ</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Акционная цена за 1 штуку. Наличие, объём партии, срок действия акции и условия доставки уточняйте у менеджера.</sales_notes>
+        <description>Акционная цена — 25 руб./шт. Кирпич лицевой ФЛЕШ КОСМО РИФ 1 НФ. Формат, НФ: 1 - Одинарный. Прочность: М150. Морозостойкость: 75.</description>
+        <param name="Формат, НФ">1 - Одинарный</param>
+        <param name="Прочность">М150</param>
+        <param name="Морозостойкость">75</param>
+      </offer>
+      <offer id="598" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/598-soloma-kanon-1-nf/</url>
+        <price>26.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/428/frc0c1v8fncnn91bylj8ymy2iohwzrxp/soloma_kanon_1_nf.jpg</picture>
+        <name>Кирпич лицевой Солома Каньон 1 НФ — акция</name>
+        <typePrefix>Кирпич лицевой акционный</typePrefix>
+        <vendor>Кощаковский завод</vendor>
+        <model>Кирпич лицевой Солома Каньон 1 НФ</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Акционная цена за 1 штуку. Наличие, объём партии, срок действия акции и условия доставки уточняйте у менеджера.</sales_notes>
+        <description>Акционная цена — 26 руб./шт. Кирпич лицевой Солома Каньон 1 НФ, 250x120x65 мм. Формат, НФ: 1 - Одинарный. Размеры: 250*120*65. Вес: 2,2. Прочность: М150. Морозостойкость: 75. Оттенки цветов: Желтый.</description>
+        <param name="Формат, НФ">1 - Одинарный</param>
+        <param name="Размеры" unit="мм">250*120*65</param>
+        <param name="Вес" unit="кг">2,2</param>
+        <param name="Прочность">М150</param>
+        <param name="Морозостойкость">75</param>
+        <param name="Оттенки цветов">Желтый</param>
+        <param name="На поддоне">384/480</param>
+        <param name="Норма загрузки">8064/8640</param>
+      </offer>
+      <offer id="597" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/597-soloma-dikiy-kamen-1-nf/</url>
+        <price>26.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/b49/udhkw0ebd24yk13y9p33gug27081ec82/soloma_dikiy_kamen_1_nf.jpg</picture>
+        <name>Кирпич лицевой Солома Дикий камень 1 НФ — акция</name>
+        <typePrefix>Кирпич лицевой акционный</typePrefix>
+        <vendor>Кощаковский завод</vendor>
+        <model>Кирпич лицевой Солома Дикий камень 1 НФ</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Акционная цена за 1 штуку. Наличие, объём партии, срок действия акции и условия доставки уточняйте у менеджера.</sales_notes>
+        <description>Акционная цена — 26 руб./шт. Кирпич лицевой Солома Дикий камень 1 НФ, 250x120x65 мм. Формат, НФ: 1 - Одинарный. Размеры: 250*120*65. Вес: 2,2. Прочность: М150. Морозостойкость: 75. Оттенки цветов: Желтый.</description>
+        <param name="Формат, НФ">1 - Одинарный</param>
+        <param name="Размеры" unit="мм">250*120*65</param>
+        <param name="Вес" unit="кг">2,2</param>
+        <param name="Прочность">М150</param>
+        <param name="Морозостойкость">75</param>
+        <param name="Оттенки цветов">Желтый</param>
+        <param name="На поддоне">384/480</param>
+        <param name="Норма загрузки">8064/8640</param>
+      </offer>
+      <offer id="621" available="true" type="vendor.model">
+        <url>https://akbarskeramic.ru/catalog/product/621-sakhara-galich-s-peskom-1-nf/</url>
+        <price>27.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/iblock/344/ikkbztm4o6ryzz1ki666i21g50bxt0oh/sakhara_galich_s_peskom_1_nf.jpg</picture>
+        <name>Кирпич лицевой Сахара Галич с песком 1 НФ — акция</name>
+        <typePrefix>Кирпич лицевой акционный</typePrefix>
+        <vendor>Кощаковский завод</vendor>
+        <model>Кирпич лицевой Сахара Галич с песком 1 НФ</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Акционная цена за 1 штуку. Наличие, объём партии, срок действия акции и условия доставки уточняйте у менеджера.</sales_notes>
+        <description>Акционная цена — 27 руб./шт. Кирпич лицевой Сахара Галич с песком 1 НФ, 250x120x65 мм. Формат, НФ: 1,4 - Полуторный. Размеры: 250*120*88. Вес: 2,2. Прочность: М150. Морозостойкость: 75. Оттенки цветов: Желтый.</description>
+        <param name="Формат, НФ">1,4 - Полуторный</param>
+        <param name="Размеры" unit="мм">250*120*88</param>
+        <param name="Вес" unit="кг">2,2</param>
+        <param name="Прочность">М150</param>
+        <param name="Морозостойкость">75</param>
+        <param name="Оттенки цветов">Желтый</param>
+        <param name="На поддоне">384/420</param>
+        <param name="Норма загрузки">7680/8400</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
