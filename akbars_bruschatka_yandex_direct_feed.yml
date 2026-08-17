@@ -1,0 +1,1278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-08-17 09:21">
+  <shop>
+    <name>Ак Барс Керамик</name>
+    <company>Ак Барс Керамик</company>
+    <url>https://akbarskeramic.ru</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Тротуарная плитка</category>
+    </categories>
+    <offers>
+      <offer id="7717" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7717-trotuarnaya-plitka-klassiko-krugovaya-vinnyj-h-60-mm/</url>
+        <price>1720.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/c6d/6v3uq23qjhc3nv6db5e5f0xkfl5gxhxx/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_krugovaya_vinnyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Классико круговая, Винный, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико круговая, Винный, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико круговая, Винный, h=60 мм. Цена — 1720 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико круговая. Оттенки цветов: Array. Цвет производителя: Винный. Размеры: 73x110x115. Вес поддона, кг: 1606.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико круговая</param>
+        <param name="Оттенки цветов">Array</param>
+        <param name="Цвет производителя">Винный</param>
+        <param name="Размеры">73x110x115</param>
+        <param name="Вес поддона, кг">1606</param>
+      </offer>
+      <offer id="7749" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7749-trotuarnaya-plitka-pryamougolnik-seryj-h-60-mm-dvuhslojnaya/</url>
+        <price>1412.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/38d/o6xxpu2154x5wanqnv6qeg7cs6ko00vj/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_pryamougolnik_seryj_h_60_mm_dvuhslojnaya.jpg</picture>
+        <name>Тротуарная плитка Прямоугольник, Серый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Прямоугольник, Серый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Прямоугольник, Серый, h=60 мм. Цена — 1412 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Прямоугольник. Оттенки цветов: Серый. Размеры: 200x100. Вес поддона, кг: 1785.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Прямоугольник</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">200x100</param>
+        <param name="Вес поддона, кг">1785</param>
+      </offer>
+      <offer id="7750" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7750-trotuarnaya-plitka-klassiko-krugovaya-seryj-h-60-mm/</url>
+        <price>1470.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/7fb/cgwlxs1oaz478a58iiy405cnghvissy7/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_krugovaya_seryj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Классико круговая, Серый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико круговая, Серый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико круговая, Серый, h=60 мм. Цена — 1470 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико круговая. Оттенки цветов: Серый. Размеры: 73x110x115. Вес поддона, кг: 1606.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико круговая</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">73x110x115</param>
+        <param name="Вес поддона, кг">1606</param>
+      </offer>
+      <offer id="7751" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7751-trotuarnaya-plitka-domino-seryj-h-60-mm/</url>
+        <price>1708.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/c88/q2bn4hgfe6on2unn65js8s79eovy3umw/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_domino_seryj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Домино, Серый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Домино, Серый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Домино, Серый, h=60 мм. Цена — 1708 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Домино. Оттенки цветов: Серый. Размеры: 280x120; 360x120; 480x120; 480x160; 640x160. Вес поддона, кг: 1606.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Домино</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">280x120; 360x120; 480x120; 480x160; 640x160</param>
+        <param name="Вес поддона, кг">1606</param>
+      </offer>
+      <offer id="7752" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7752-trotuarnaya-plitka-triada-seryj-h-60-mm/</url>
+        <price>1708.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/670/aa47i9xuvvu9m7pszogknt1u6lns6lgd/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_triada_seryj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Триада, Серый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Триада, Серый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Триада, Серый, h=60 мм. Цена — 1708 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Триада. Оттенки цветов: Серый. Размеры: 300x300; 450x300; 600x300. Вес поддона, кг: 1850.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Триада</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">300x300; 450x300; 600x300</param>
+        <param name="Вес поддона, кг">1850</param>
+      </offer>
+      <offer id="7753" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7753-trotuarnaya-plitka-rivera-seryj-h-60-mm/</url>
+        <price>1927.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/1bb/pyzm4xmfr4oioh55u2my475skzy5ejbd/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_rivera_seryj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Ривьера, Серый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Ривьера, Серый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Ривьера, Серый, h=60 мм. Цена — 1927 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Ривьера. Оттенки цветов: Серый. Размеры: 132x132; 165x132; 198x132; 231x132; 265x132. Вес поддона, кг: 1734.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Ривьера</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">132x132; 165x132; 198x132; 231x132; 265x132</param>
+        <param name="Вес поддона, кг">1734</param>
+      </offer>
+      <offer id="7754" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7754-gazonnaya-reshetka-meba/</url>
+        <price>1782.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/75c/s8nv8viud2eq0cnkul1gncmjhjzxj1jc/100_76_240cd750bba9870f18aada2478b24840a/gazonnaya_reshetka_meba.jpg</picture>
+        <name>Газонная решетка "Меба"</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Газонная решетка "Меба"</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Газонная решетка "Меба". Цена — 1782 руб./шт.. Производитель: Завод бетонных изделий BRAER II. Коллекция: Меба. Оттенки цветов: Серый. Размеры: 400x600х100. Вес поддона, кг: 1552.</description>
+        <param name="Единица измерения">шт.</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Меба</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">400x600х100</param>
+        <param name="Вес поддона, кг">1552</param>
+      </offer>
+      <offer id="7755" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7755-trotuarnaya-plitka-pryamougolnik-seryj-h-40-mm-dvuhslojnaya/</url>
+        <price>1234.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/cab/ijbe3fdt0gjdq76b9ekkj8ttnkclr5mn/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_pryamougolnik_seryj_h_40_mm_dvuhslojnaya.jpg</picture>
+        <name>Тротуарная плитка Прямоугольник, Серый, h=40 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Прямоугольник, Серый, h=40 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Прямоугольник, Серый, h=40 мм. Цена — 1234 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Прямоугольник. Оттенки цветов: Серый. Размеры: 200x100. Вес поддона, кг: 1781.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Прямоугольник</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">200x100</param>
+        <param name="Вес поддона, кг">1781</param>
+      </offer>
+      <offer id="7756" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7756-trotuarnaya-plitka-staryj-gorod-landhaus-seriy-h-60-mm/</url>
+        <price>1470.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/6be/zfew06zxsxpidbnscv9ot9wrde1aihl6/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_staryj_gorod_landhaus_seriy_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Старый город "Ландхаус", Серый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Старый город "Ландхаус", Серый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Старый город "Ландхаус", Серый, h=60 мм. Цена — 1470 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Старый город Ландхаус. Оттенки цветов: Серый. Размеры: 80x160; 160x160; 240x160. Вес поддона, кг: 1777.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Старый город Ландхаус</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">80x160; 160x160; 240x160</param>
+        <param name="Вес поддона, кг">1777</param>
+      </offer>
+      <offer id="7757" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7757-trotuarnaya-plitka-staryj-gorod-landhaus-seriy-h-80-mm/</url>
+        <price>1707.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/d20/2fdr3348g8lbcbxzd9k6f2i4l8p2bu25/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_staryj_gorod_landhaus_seriy_h_80_mm.jpg</picture>
+        <name>Тротуарная плитка Старый город "Ландхаус", Серый, h=80 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Старый город "Ландхаус", Серый, h=80 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Старый город "Ландхаус", Серый, h=80 мм. Цена — 1707 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Старый город Ландхаус. Оттенки цветов: Серый. Размеры: 80x160; 160x160; 240x160. Вес поддона, кг: 1973.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Старый город Ландхаус</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">80x160; 160x160; 240x160</param>
+        <param name="Вес поддона, кг">1973</param>
+      </offer>
+      <offer id="7758" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7758-trotuarnaya-plitka-staryj-gorod-landhaus-belyj-h-60-mm/</url>
+        <price>1646.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/7a5/5jckgvxg7shyui10d1w5a75p7g2aiwuq/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_staryj_gorod_landhaus_belyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Старый город "Ландхаус", Белый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Старый город "Ландхаус", Белый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Старый город "Ландхаус", Белый, h=60 мм. Цена — 1646 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Старый город Ландхаус. Оттенки цветов: Белый. Размеры: 80x160; 160x160; 240x160. Вес поддона, кг: 1777.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Старый город Ландхаус</param>
+        <param name="Оттенки цветов">Белый</param>
+        <param name="Размеры">80x160; 160x160; 240x160</param>
+        <param name="Вес поддона, кг">1777</param>
+      </offer>
+      <offer id="7759" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7759-trotuarnaya-plitka-pryamougolnik-pesochnyj-h-40-mm/</url>
+        <price>1410.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/2df/nkpe32krnelijct5x9bk985h65r3d2qc/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_pryamougolnik_pesochnyj_h_40_mm.jpg</picture>
+        <name>Тротуарная плитка Прямоугольник, Песочный, h=40 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Прямоугольник, Песочный, h=40 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Прямоугольник, Песочный, h=40 мм. Цена — 1410 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Прямоугольник. Оттенки цветов: Желтый. Цвет производителя: Песочный. Размеры: 200x100. Вес поддона, кг: 1781.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Прямоугольник</param>
+        <param name="Оттенки цветов">Желтый</param>
+        <param name="Цвет производителя">Песочный</param>
+        <param name="Размеры">200x100</param>
+        <param name="Вес поддона, кг">1781</param>
+      </offer>
+      <offer id="7760" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7760-trotuarnaya-plitka-klassiko-seryj-h-60-mm/</url>
+        <price>1470.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/a7a/wentj7bewur6j1zuwfxhmdk2ubpay81k/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_seryj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Классико, Серый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико, Серый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико, Серый, h=60 мм. Цена — 1470 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико. Оттенки цветов: Серый. Размеры: 57x115; 115x115; 172x115. Вес поддона, кг: 1880.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">57x115; 115x115; 172x115</param>
+        <param name="Вес поддона, кг">1880</param>
+      </offer>
+      <offer id="7761" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7761-trotuarnaya-plitka-klassiko-pesochnyj-h-60-mm/</url>
+        <price>1720.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/598/0bq0kmt2wbexd42xfb615agavon6l8al/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_pesochnyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Классико, Песочный, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико, Песочный, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико, Песочный, h=60 мм. Цена — 1720 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико. Оттенки цветов: Желтый. Цвет производителя: Песочный. Размеры: 57x115; 115x115; 172x115. Вес поддона, кг: 1880.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико</param>
+        <param name="Оттенки цветов">Желтый</param>
+        <param name="Цвет производителя">Песочный</param>
+        <param name="Размеры">57x115; 115x115; 172x115</param>
+        <param name="Вес поддона, кг">1880</param>
+      </offer>
+      <offer id="7762" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7762-trotuarnaya-plitka-klassiko-belyj-h-60-mm/</url>
+        <price>1720.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/ebc/kmxov4muxtue63h7us6ktbv9r17e4dxk/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_belyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Классико, Белый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико, Белый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико, Белый, h=60 мм. Цена — 1720 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико. Оттенки цветов: Белый. Размеры: 57x115; 115x115; 172x115. Вес поддона, кг: 1880.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико</param>
+        <param name="Оттенки цветов">Белый</param>
+        <param name="Размеры">57x115; 115x115; 172x115</param>
+        <param name="Вес поддона, кг">1880</param>
+      </offer>
+      <offer id="7763" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7763-trotuarnaya-plitka-pryamougolnik-seryj-h-80-mm-dvuhslojnaya/</url>
+        <price>1707.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/547/0q0fokbh1e3vw7xrmsgg1mg57mayg5bc/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_pryamougolnik_seryj_h_80_mm_dvuhslojnaya.jpg</picture>
+        <name>Тротуарная плитка Прямоугольник, Серый, h=80 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Прямоугольник, Серый, h=80 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Прямоугольник, Серый, h=80 мм. Цена — 1707 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Прямоугольник. Оттенки цветов: Серый. Размеры: 200x100. Вес поддона, кг: 1982.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Прямоугольник</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">200x100</param>
+        <param name="Вес поддона, кг">1982</param>
+      </offer>
+      <offer id="7764" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7764-trotuarnaya-plitka-pryamougolnik-korichnevyj-h-60-mm-200x100/</url>
+        <price>1646.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/096/f51vh1bpw11wftl8wasji7r3rakwexbi/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_pryamougolnik_korichnevyj_h_60_mm_200x100.jpg</picture>
+        <name>Тротуарная плитка Прямоугольник, Коричневый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Прямоугольник, Коричневый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Прямоугольник, Коричневый, h=60 мм. Цена — 1646 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Прямоугольник. Оттенки цветов: Коричневый. Размеры: 200x100. Вес поддона, кг: 1785.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Прямоугольник</param>
+        <param name="Оттенки цветов">Коричневый</param>
+        <param name="Размеры">200x100</param>
+        <param name="Вес поддона, кг">1785</param>
+      </offer>
+      <offer id="7765" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7765-trotuarnaya-plitka-pryamougolnik-pesochnyj-h-60-mm/</url>
+        <price>1646.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/3fc/sewjdx0c8vfus7qxtz1cde46iyyk4vr8/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_pryamougolnik_pesochnyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Прямоугольник, Песочный, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Прямоугольник, Песочный, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Прямоугольник, Песочный, h=60 мм. Цена — 1646 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Прямоугольник. Оттенки цветов: Желтый. Цвет производителя: Песочный. Размеры: 200x100. Вес поддона, кг: 1785.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Прямоугольник</param>
+        <param name="Оттенки цветов">Желтый</param>
+        <param name="Цвет производителя">Песочный</param>
+        <param name="Размеры">200x100</param>
+        <param name="Вес поддона, кг">1785</param>
+      </offer>
+      <offer id="7766" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7766-trotuarnaya-plitka-klassiko-yantarnyj-h-60-mm/</url>
+        <price>1720.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/3d1/k23fr2qv9bv3bavsdnn9ooi80103d1vl/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_yantarnyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Классико, Янтарный, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико, Янтарный, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико, Янтарный, h=60 мм. Цена — 1720 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико. Оттенки цветов: Array. Цвет производителя: Янтарный. Размеры: 57x115; 115x115; 172x115. Вес поддона, кг: 1880.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико</param>
+        <param name="Оттенки цветов">Array</param>
+        <param name="Цвет производителя">Янтарный</param>
+        <param name="Размеры">57x115; 115x115; 172x115</param>
+        <param name="Вес поддона, кг">1880</param>
+      </offer>
+      <offer id="7767" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7767-trotuarnaya-plitka-klassiko-krugovaya-korichnevyj-h-60-mm/</url>
+        <price>1720.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/354/x8h1udukifqx2ixs35vpbn5bh3yfdnwf/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_krugovaya_korichnevyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Классико круговая, Коричневый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико круговая, Коричневый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико круговая, Коричневый, h=60 мм. Цена — 1720 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико круговая. Оттенки цветов: Коричневый. Размеры: 73x110x115. Вес поддона, кг: 1606.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико круговая</param>
+        <param name="Оттенки цветов">Коричневый</param>
+        <param name="Размеры">73x110x115</param>
+        <param name="Вес поддона, кг">1606</param>
+      </offer>
+      <offer id="7768" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7768-trotuarnaya-plitka-luvr-pesochnyj-h-60-mm-200%D1%85200/</url>
+        <price>1646.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/4cc/7a9pwneild7n7b5j398r6t9beiot3fve/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_luvr_pesochnyj_h_60_mm_200kh200.jpg</picture>
+        <name>Тротуарная плитка Лувр, Песочный, 200x200, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Лувр, Песочный, 200x200, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Лувр, Песочный, 200x200, h=60 мм. Цена — 1646 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Лувр. Оттенки цветов: Желтый. Цвет производителя: Песочный. Размеры: 200x200. Вес поддона, кг: 1988.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Лувр</param>
+        <param name="Оттенки цветов">Желтый</param>
+        <param name="Цвет производителя">Песочный</param>
+        <param name="Размеры">200x200</param>
+        <param name="Вес поддона, кг">1988</param>
+      </offer>
+      <offer id="7769" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7769-trotuarnaya-plitka-pryamougolnik-krasnyj-h-60-mm/</url>
+        <price>1646.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/884/idxi2xq4v40ropll2qtqvgjqcbgmcoyh/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_pryamougolnik_krasnyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Прямоугольник, Красный, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Прямоугольник, Красный, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Прямоугольник, Красный, h=60 мм. Цена — 1646 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Прямоугольник. Оттенки цветов: Красный. Размеры: 200x100. Вес поддона, кг: 1785.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Прямоугольник</param>
+        <param name="Оттенки цветов">Красный</param>
+        <param name="Размеры">200x100</param>
+        <param name="Вес поддона, кг">1785</param>
+      </offer>
+      <offer id="7770" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7770-trotuarnaya-plitka-klassiko-korichnevyj-h-60-mm/</url>
+        <price>1720.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/10c/4irghhygekq8fycjohh3lx5hfb0hrf6h/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_korichnevyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Классико, Коричневый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико, Коричневый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико, Коричневый, h=60 мм. Цена — 1720 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико. Оттенки цветов: Коричневый. Размеры: 57x115; 115x115; 172x115. Вес поддона, кг: 1880.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико</param>
+        <param name="Оттенки цветов">Коричневый</param>
+        <param name="Размеры">57x115; 115x115; 172x115</param>
+        <param name="Вес поддона, кг">1880</param>
+      </offer>
+      <offer id="7771" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7771-trotuarnaya-plitka-klassiko-krugovaya-pesochnyj-h-60-mm/</url>
+        <price>1720.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/204/a2rnr517yp3tp1utuewbxxijglyeej3m/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_krugovaya_pesochnyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Классико круговая, Песочный, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико круговая, Песочный, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико круговая, Песочный, h=60 мм. Цена — 1720 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико круговая. Оттенки цветов: Array. Цвет производителя: Песочный. Размеры: 73x110x115. Вес поддона, кг: 1606.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико круговая</param>
+        <param name="Оттенки цветов">Array</param>
+        <param name="Цвет производителя">Песочный</param>
+        <param name="Размеры">73x110x115</param>
+        <param name="Вес поддона, кг">1606</param>
+      </offer>
+      <offer id="7773" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7773-trotuarnaya-plitka-pryamougolnik-krasnyj-h-40-mm/</url>
+        <price>1410.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/c3d/9eirs17kw5i6rnajknr6c440di6dku2y/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_pryamougolnik_krasnyj_h_40_mm.jpg</picture>
+        <name>Тротуарная плитка Прямоугольник, Красный, h=40 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Прямоугольник, Красный, h=40 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Прямоугольник, Красный, h=40 мм. Цена — 1410 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Прямоугольник. Оттенки цветов: Красный. Размеры: 200x100. Вес поддона, кг: 1781.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Прямоугольник</param>
+        <param name="Оттенки цветов">Красный</param>
+        <param name="Размеры">200x100</param>
+        <param name="Вес поддона, кг">1781</param>
+      </offer>
+      <offer id="7775" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7775-trotuarnaya-plitka-klassiko-krugovaya-belyj-h-60-mm/</url>
+        <price>1720.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/900/7flbbo0u7r8bto4qe77yvkkyicve0sfe/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_krugovaya_belyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Классико круговая, Белый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико круговая, Белый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико круговая, Белый, h=60 мм. Цена — 1720 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико круговая. Оттенки цветов: Белый. Размеры: 73x110x115. Вес поддона, кг: 1606.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико круговая</param>
+        <param name="Оттенки цветов">Белый</param>
+        <param name="Размеры">73x110x115</param>
+        <param name="Вес поддона, кг">1606</param>
+      </offer>
+      <offer id="7776" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7776-trotuarnaya-plitka-pryamougolnik-korichnevyj-h-40-mm-200x100/</url>
+        <price>1410.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/03b/i4dhz737dhni1y0y4qrux58vznruzyro/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_pryamougolnik_korichnevyj_h_40_mm_200x100.jpg</picture>
+        <name>Тротуарная плитка Прямоугольник, Коричневый, h=40 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Прямоугольник, Коричневый, h=40 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Прямоугольник, Коричневый, h=40 мм. Цена — 1410 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Прямоугольник. Оттенки цветов: Коричневый. Размеры: 200x100. Вес поддона, кг: 1781.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Прямоугольник</param>
+        <param name="Оттенки цветов">Коричневый</param>
+        <param name="Размеры">200x100</param>
+        <param name="Вес поддона, кг">1781</param>
+      </offer>
+      <offer id="7780" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7780-trotuarnaya-plitka-staryj-gorod-landhaus-belyj-h-80-mm/</url>
+        <price>1980.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/2b7/1265wx5sfkdhip6md9hx2wrw4uhdtitr/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_staryj_gorod_landhaus_belyj_h_80_mm.jpg</picture>
+        <name>Тротуарная плитка Старый город "Ландхаус", Белый, h=80 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Старый город "Ландхаус", Белый, h=80 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Старый город "Ландхаус", Белый, h=80 мм. Цена — 1980 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Старый город Ландхаус. Оттенки цветов: Белый. Размеры: 80x160; 160x160; 240x160. Вес поддона, кг: 1973.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Старый город Ландхаус</param>
+        <param name="Оттенки цветов">Белый</param>
+        <param name="Размеры">80x160; 160x160; 240x160</param>
+        <param name="Вес поддона, кг">1973</param>
+      </offer>
+      <offer id="7781" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7781-trotuarnaya-plitka-klassiko-medovyj-h-60-mm/</url>
+        <price>1720.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/7f7/0x8dsi91impk1aq251qb9y2cki1i4zuq/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_medovyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Классико, Медовый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико, Медовый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико, Медовый, h=60 мм. Цена — 1720 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико. Оттенки цветов: Желтый. Цвет производителя: Медовый. Размеры: 57x115; 115x115; 172x115. Вес поддона, кг: 1880.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико</param>
+        <param name="Оттенки цветов">Желтый</param>
+        <param name="Цвет производителя">Медовый</param>
+        <param name="Размеры">57x115; 115x115; 172x115</param>
+        <param name="Вес поддона, кг">1880</param>
+      </offer>
+      <offer id="7782" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7782-trotuarnaya-plitka-klassiko-vinnyj-h-60-mm/</url>
+        <price>1720.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/bbc/ozjaye5fnf5nsi4xurv86w92h8nu61vt/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_vinnyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Классико, Винный, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико, Винный, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико, Винный, h=60 мм. Цена — 1720 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико. Оттенки цветов: Array. Цвет производителя: Винный. Размеры: 57x115; 115x115; 172x115. Вес поддона, кг: 1880.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико</param>
+        <param name="Оттенки цветов">Array</param>
+        <param name="Цвет производителя">Винный</param>
+        <param name="Размеры">57x115; 115x115; 172x115</param>
+        <param name="Вес поддона, кг">1880</param>
+      </offer>
+      <offer id="7784" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7784-trotuarnaya-plitka-luvr-belyj-h-60-mm-200x200/</url>
+        <price>1646.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/aff/l48fxw1jas1ev08dc1jsshsz728nfxmg/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_luvr_belyj_h_60_mm_200x200.jpg</picture>
+        <name>Тротуарная плитка Лувр, Белый, 200х200, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Лувр, Белый, 200х200, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Лувр, Белый, 200х200, h=60 мм. Цена — 1646 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Лувр. Оттенки цветов: Array. Размеры: 200x200. Вес поддона, кг: 1988.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Лувр</param>
+        <param name="Оттенки цветов">Array</param>
+        <param name="Размеры">200x200</param>
+        <param name="Вес поддона, кг">1988</param>
+      </offer>
+      <offer id="7785" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7785-trotuarnaya-plitka-luvr-granit-belyj-h-60-mm/</url>
+        <price>3159.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/620/8vsnewf07aw2tcjsur851lj00vv972id/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_luvr_granit_belyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Лувр, Гранит белый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Лувр, Гранит белый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Лувр, Гранит белый, h=60 мм. Цена — 3159 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Лувр. Оттенки цветов: Array. Цвет производителя: Гранит. Размеры: 200x200. Вес поддона, кг: 1988.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Лувр</param>
+        <param name="Оттенки цветов">Array</param>
+        <param name="Цвет производителя">Гранит</param>
+        <param name="Размеры">200x200</param>
+        <param name="Вес поддона, кг">1988</param>
+      </offer>
+      <offer id="7788" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7788-trotuarnaya-plitka-staryj-gorod-landhaus-pesochnyj-h-60-mm/</url>
+        <price>1646.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/c8b/f4qy1132ob9hqince8gbe74gafjk3uwj/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_staryj_gorod_landhaus_pesochnyj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Старый город "Ландхаус", Песочный, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Старый город "Ландхаус", Песочный, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Старый город "Ландхаус", Песочный, h=60 мм. Цена — 1646 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Старый город Ландхаус. Оттенки цветов: Желтый. Цвет производителя: Песочный. Размеры: 80x160; 160x160; 240x160. Вес поддона, кг: 1777.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Старый город Ландхаус</param>
+        <param name="Оттенки цветов">Желтый</param>
+        <param name="Цвет производителя">Песочный</param>
+        <param name="Размеры">80x160; 160x160; 240x160</param>
+        <param name="Вес поддона, кг">1777</param>
+      </offer>
+      <offer id="7790" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7790-trotuarnaya-plitka-mozaika-seryj-h-60-mm/</url>
+        <price>1708.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/131/bulbofjvm2xh71dwqommm0o2gsnashgh/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_mozaika_seryj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Мозаика, Серый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Мозаика, Серый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Мозаика, Серый, h=60 мм. Цена — 1708 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Мозайка. Оттенки цветов: Серый. Размеры: 200x100; 200x200; 300x200. Вес поддона, кг: 1635.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Мозайка</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">200x100; 200x200; 300x200</param>
+        <param name="Вес поддона, кг">1635</param>
+      </offer>
+      <offer id="7794" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7794-trotuarnaya-plitka-luvr-seryj-h-60-mm/</url>
+        <price>1412.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/3b0/6s1yiji2cy8ffnlgsnw2nhsks3h3rp77/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_luvr_seryj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Лувр, Серый, 100x100, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Лувр, Серый, 100x100, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Лувр, Серый, 100x100, h=60 мм. Цена — 1412 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Лувр. Оттенки цветов: Серый. Размеры: 100x100. Вес поддона, кг: 1590.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Лувр</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">100x100</param>
+        <param name="Вес поддона, кг">1590</param>
+      </offer>
+      <offer id="7801" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7801-trotuarnaya-plitka-luvr-granit-seryj-h-60-mm/</url>
+        <price>3159.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/2a7/dqwu56kp44yw6t7x4hvhysv403ruqiq7/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_luvr_granit_seryj_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Лувр, Гранит серый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Лувр, Гранит серый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Лувр, Гранит серый, h=60 мм. Цена — 3159 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Лувр. Оттенки цветов: Серый. Цвет производителя: Гранит. Размеры: 200x200. Вес поддона, кг: 1988.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Лувр</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Цвет производителя">Гранит</param>
+        <param name="Размеры">200x200</param>
+        <param name="Вес поддона, кг">1988</param>
+      </offer>
+      <offer id="7802" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7802-trotuarnaya-plitka-luvr-mramor-h-60-mm/</url>
+        <price>3159.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/986/5yq9ft9q7loqdh596urnsth1475um6mx/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_luvr_mramor_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Лувр, Мрамор, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Лувр, Мрамор, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Лувр, Мрамор, h=60 мм. Цена — 3159 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Лувр. Оттенки цветов: Белый. Цвет производителя: Мрамор. Размеры: 200x200. Вес поддона, кг: 1988.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Лувр</param>
+        <param name="Оттенки цветов">Белый</param>
+        <param name="Цвет производителя">Мрамор</param>
+        <param name="Размеры">200x200</param>
+        <param name="Вес поддона, кг">1988</param>
+      </offer>
+      <offer id="7829" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7829-trotuarnaya-plitka-siti-grey-h-80-mm-600x300/</url>
+        <price>2398.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/2f2/vmsa3txd3kh4jt5n6tsrgbz9w4dkulnc/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_siti_grey_h_80_mm_600x300.webp</picture>
+        <name>Тротуарная плитка Сити, серый, 600*300 мм, h=80 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Сити, серый, 600*300 мм, h=80 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Сити, серый, 600*300 мм, h=80 мм. Цена — 2398 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Сити. Оттенки цветов: Array. Размеры: 600x300. Вес поддона, кг: 2024.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Сити</param>
+        <param name="Оттенки цветов">Array</param>
+        <param name="Размеры">600x300</param>
+        <param name="Вес поддона, кг">2024</param>
+      </offer>
+      <offer id="7831" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7831-trotuarnaya-plitka-siti-white-h-80-mm-600x300/</url>
+        <price>2427.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/dee/7pt1nzois9v73yrwjp2ytu8s9q6jezbu/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_siti_white_h_80_mm_600x300.jpg</picture>
+        <name>Тротуарная плитка Сити, белый, 600x300 мм, h=80 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Сити, белый, 600x300 мм, h=80 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Сити, белый, 600x300 мм, h=80 мм. Цена — 2427 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Сити. Оттенки цветов: Белый. Размеры: 600x300. Вес поддона, кг: 2024.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Сити</param>
+        <param name="Оттенки цветов">Белый</param>
+        <param name="Размеры">600x300</param>
+        <param name="Вес поддона, кг">2024</param>
+      </offer>
+      <offer id="7866" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7866-trotuarnaya-plitka-grin-galet-seryj-h-80-mm/</url>
+        <price>1785.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/506/49qpfhhhdypwj12pcun56tafy9wvfnhj/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_grin_galet_seryj_h_80_mm.jpg</picture>
+        <name>Газонная решетка Грин Галет, Серый, h=80 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Газонная решетка Грин Галет, Серый, h=80 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Газонная решетка Грин Галет, Серый, h=80 мм. Цена — 1785 руб./шт.. Производитель: Завод бетонных изделий BRAER II. Коллекция: Грин Галет. Оттенки цветов: Серый. Размеры: 500x500. Вес поддона, кг: 1506.</description>
+        <param name="Единица измерения">шт.</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Грин Галет</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">500x500</param>
+        <param name="Вес поддона, кг">1506</param>
+      </offer>
+      <offer id="7869" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7869-trotuarnaya-plitka-klassiko-duo-vinnyj-h-40-mm/</url>
+        <price>1424.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/6c2/q3xlrehn8a2wic59mpy6xesqkjakqqxb/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_duo_vinnyj_h_40_mm.jpg</picture>
+        <name>Тротуарная плитка Классико Дуо, Винный, h=40 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико Дуо, Винный, h=40 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико Дуо, Винный, h=40 мм. Цена — 1424 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико Дуо. Цвет производителя: Винный. Размеры: 115x115; 172x115. Вес поддона, кг: 1704.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико Дуо</param>
+        <param name="Цвет производителя">Винный</param>
+        <param name="Размеры">115x115; 172x115</param>
+        <param name="Вес поддона, кг">1704</param>
+      </offer>
+      <offer id="7870" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/7870-trotuarnaya-plitka-klassiko-duo-korichnevyj-h-40-mm/</url>
+        <price>1424.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/838/l8ss5xdfq3v20uv1o7y7enjs4x1jy4ab/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_duo_korichnevyj_h_40_mm.jpg</picture>
+        <name>Тротуарная плитка Классико Дуо, Коричневый, h=40 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико Дуо, Коричневый, h=40 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико Дуо, Коричневый, h=40 мм. Цена — 1424 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико Дуо. Оттенки цветов: Коричневый. Размеры: 115x115; 172x115. Вес поддона, кг: 1704.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико Дуо</param>
+        <param name="Оттенки цветов">Коричневый</param>
+        <param name="Размеры">115x115; 172x115</param>
+        <param name="Вес поддона, кг">1704</param>
+      </offer>
+      <offer id="9849" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/9849-trotuarnaya-plitka-klassiko-duo-pesochnyy-h-40-mm/</url>
+        <price>1424.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/6d7/7lzyirz6es1f79jyzwca4kgvtpbdxyjb/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_klassiko_duo_pesochnyy_h_40_mm.jpg</picture>
+        <name>Тротуарная плитка Классико Дуо, Песочный, h=40 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Классико Дуо, Песочный, h=40 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Классико Дуо, Песочный, h=40 мм. Цена — 1424 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Классико Дуо. Оттенки цветов: Желтый. Цвет производителя: Песочный.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Классико Дуо</param>
+        <param name="Оттенки цветов">Желтый</param>
+        <param name="Цвет производителя">Песочный</param>
+      </offer>
+      <offer id="12139" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12139-trotuarnaya-plitka-triada-belyy-h-60-mm/</url>
+        <price>1817.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/924/0ka8qixavfx68e5tk1qaregesnfb57cm/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_triada_belyy_h_60_mm.webp</picture>
+        <name>Тротуарная плитка Триада, Белый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Триада, Белый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Триада, Белый, h=60 мм. Цена — 1817 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Триада. Оттенки цветов: Серый. Размеры: 300x300; 450x300; 600x300. Вес поддона, кг: 1850.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Триада</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">300x300; 450x300; 600x300</param>
+        <param name="Вес поддона, кг">1850</param>
+      </offer>
+      <offer id="12162" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12162-trotuarnaya-plitka-pryamougolnik-chernyy-h-60-mm/</url>
+        <price>1646.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/216/90jn0l498t2x6xc1o2li8mn9oexvq3c0/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_pryamougolnik_chernyy_h_60_mm.jpg</picture>
+        <name>Тротуарная плитка Прямоугольник, Черный, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Прямоугольник, Черный, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Прямоугольник, Черный, h=60 мм. Цена — 1646 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Прямоугольник. Оттенки цветов: Чёрный. Размеры: 200x100. Вес поддона, кг: 1785.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Прямоугольник</param>
+        <param name="Оттенки цветов">Чёрный</param>
+        <param name="Размеры">200x100</param>
+        <param name="Вес поддона, кг">1785</param>
+      </offer>
+      <offer id="12167" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12167-trotuarnaya-plitka-siti-belyy-300x300-mm-h-80-mm/</url>
+        <price>2427.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/a1e/fpu4vhuduz7yfay3vu0f0vyx73ubi9ih/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_siti_belyy_300x300_mm_h_80_mm.jpeg</picture>
+        <name>Тротуарная плитка Сити, белый, 300x300 мм, h=80 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Сити, белый, 300x300 мм, h=80 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Сити, белый, 300x300 мм, h=80 мм. Цена — 2427 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Сити. Оттенки цветов: Белый. Размеры: 300x300. Вес поддона, кг: 2014.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Сити</param>
+        <param name="Оттенки цветов">Белый</param>
+        <param name="Размеры">300x300</param>
+        <param name="Вес поддона, кг">2014</param>
+      </offer>
+      <offer id="12169" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12169-trotuarnaya-plitka-siti-belyy-300x150-mm-h-80-mm/</url>
+        <price>2427.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/897/pqvhz7comondylpn723208ft90nipj92/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_siti_belyy_300x150_mm_h_80_mm.jpeg</picture>
+        <name>Тротуарная плитка Сити, белый, 300x150 мм, h=80 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Сити, белый, 300x150 мм, h=80 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Сити, белый, 300x150 мм, h=80 мм. Цена — 2427 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Сити. Оттенки цветов: Белый. Размеры: 300x150. Вес поддона, кг: 1995.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Сити</param>
+        <param name="Оттенки цветов">Белый</param>
+        <param name="Размеры">300x150</param>
+        <param name="Вес поддона, кг">1995</param>
+      </offer>
+      <offer id="12171" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12171-trotuarnaya-plitka-siti-seryy-300-300-mm-h-80-mm/</url>
+        <price>2398.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/b24/yibxzu36wkmw6nfczk62rku19uhx52qr/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_siti_seryy_300_300_mm_h_80_mm.webp</picture>
+        <name>Тротуарная плитка Сити, серый, 300*300 мм, h=80 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Сити, серый, 300*300 мм, h=80 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Сити, серый, 300*300 мм, h=80 мм. Цена — 2398 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Сити. Оттенки цветов: Array. Размеры: 300x300. Вес поддона, кг: 2014.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Сити</param>
+        <param name="Оттенки цветов">Array</param>
+        <param name="Размеры">300x300</param>
+        <param name="Вес поддона, кг">2014</param>
+      </offer>
+      <offer id="12251" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12251-trotuarnaya-plitka-rigel-2-0-mramor-h-60-mm/</url>
+        <price>3337.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/0ab/7x3qlfafjq3xj9togqp2f3g7x0dfv219/100_76_240cd750bba9870f18aada2478b24840a/trotuarnaya_plitka_rigel_2_0_mramor_h_60_mm.webp</picture>
+        <name>Тротуарная плитка Ригель 2.0, Мрамор, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Тротуарная плитка Ригель 2.0, Мрамор, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за м² Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Тротуарная плитка Ригель 2.0, Мрамор, h=60 мм. Цена — 3337 руб./м². Производитель: Завод бетонных изделий BRAER II. Коллекция: Ригель. Оттенки цветов: Белый. Цвет производителя: Мрамор. Размеры: 320x80. Вес поддона, кг: 1761.</description>
+        <param name="Единица измерения">м²</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Коллекция">Ригель</param>
+        <param name="Оттенки цветов">Белый</param>
+        <param name="Цвет производителя">Мрамор</param>
+        <param name="Размеры">320x80</param>
+        <param name="Вес поддона, кг">1761</param>
+      </offer>
+      <offer id="12253" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12253-kamen-bordyur-dorozhnyy-seryy/</url>
+        <price>835.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/1e4/5lha9x7roqg9ubv09eznx3qyln6v2ghq/100_76_240cd750bba9870f18aada2478b24840a/kamen_bordyur_dorozhnyy_seryy.jpg</picture>
+        <name>Камень бордюр дорожный, h=300 мм, Серый</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Камень бордюр дорожный, h=300 мм, Серый</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Камень бордюр дорожный, h=300 мм, Серый. Цена — 835 руб./шт.. Производитель: Завод бетонных изделий BRAER II. Оттенки цветов: Серый. Размеры: 1000*150. Вес поддона, кг: 1818.</description>
+        <param name="Единица измерения">шт.</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">1000*150</param>
+        <param name="Вес поддона, кг">1818</param>
+      </offer>
+      <offer id="12271" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12271-kamen-bordyur-dorozhnyy-belyy/</url>
+        <price>493.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/b31/vui1ypnjzjmfo82pc8twrpg3ptx6jcym/100_76_240cd750bba9870f18aada2478b24840a/kamen_bordyur_dorozhnyy_belyy.jpg</picture>
+        <name>Камень бордюр дорожный, Белый</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Камень бордюр дорожный, Белый</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Камень бордюр дорожный, Белый. Цена — 493 руб./шт.. Производитель: Завод бетонных изделий BRAER II. Оттенки цветов: Белый. Размеры: 1000/80*200. Вес поддона, кг: 1759.</description>
+        <param name="Единица измерения">шт.</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Оттенки цветов">Белый</param>
+        <param name="Размеры">1000/80*200</param>
+        <param name="Вес поддона, кг">1759</param>
+      </offer>
+      <offer id="12273" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12273-kamen-bordyur-dorozhnyy-korichnevyy/</url>
+        <price>493.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/9df/qbjin52ksogu2n4ulvshscfxug6avusl/100_76_240cd750bba9870f18aada2478b24840a/kamen_bordyur_dorozhnyy_korichnevyy.jpg</picture>
+        <name>Камень бордюр дорожный, Коричневый</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Камень бордюр дорожный, Коричневый</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Камень бордюр дорожный, Коричневый. Цена — 493 руб./шт.. Производитель: Завод бетонных изделий BRAER II. Оттенки цветов: Коричневый. Размеры: 1000/80*200. Вес поддона, кг: 1759.</description>
+        <param name="Единица измерения">шт.</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Оттенки цветов">Коричневый</param>
+        <param name="Размеры">1000/80*200</param>
+        <param name="Вес поддона, кг">1759</param>
+      </offer>
+      <offer id="12275" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12275-kamen-bordyur-dorozhnyy-krasnyy/</url>
+        <price>493.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/d08/48i28fiwxnyq4393lfmuovhm1b88ah01/100_76_240cd750bba9870f18aada2478b24840a/kamen_bordyur_dorozhnyy_krasnyy.jpg</picture>
+        <name>Камень бордюр дорожный, Красный</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Камень бордюр дорожный, Красный</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Камень бордюр дорожный, Красный. Цена — 493 руб./шт.. Производитель: Завод бетонных изделий BRAER II. Оттенки цветов: Красный. Размеры: 1000/80*200. Вес поддона, кг: 1759.</description>
+        <param name="Единица измерения">шт.</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Оттенки цветов">Красный</param>
+        <param name="Размеры">1000/80*200</param>
+        <param name="Вес поддона, кг">1759</param>
+      </offer>
+      <offer id="12277" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12277-kamen-bordyur-dorozhnyy-pesochnyy/</url>
+        <price>493.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/3d8/xq8refj8znohmdygvjnfd1l1xvo80e19/100_76_240cd750bba9870f18aada2478b24840a/kamen_bordyur_dorozhnyy_pesochnyy.jpg</picture>
+        <name>Камень бордюр дорожный, Песочный</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Камень бордюр дорожный, Песочный</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Камень бордюр дорожный, Песочный. Цена — 493 руб./шт.. Производитель: Завод бетонных изделий BRAER II. Оттенки цветов: Желтый. Размеры: 1000/80*200. Вес поддона, кг: 1759.</description>
+        <param name="Единица измерения">шт.</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Оттенки цветов">Желтый</param>
+        <param name="Размеры">1000/80*200</param>
+        <param name="Вес поддона, кг">1759</param>
+      </offer>
+      <offer id="12279" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12279-kamen-bordyur-dorozhnyy-h-200-mm-seryy/</url>
+        <price>428.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/886/um83u75zo156fhmnihoupe05cshu9wll/100_76_240cd750bba9870f18aada2478b24840a/kamen_bordyur_dorozhnyy_h_200_mm_seryy.jpg</picture>
+        <name>Камень бордюр тротуарный, h=200 мм, Серый</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Камень бордюр тротуарный, h=200 мм, Серый</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Камень бордюр тротуарный, h=200 мм, Серый. Цена — 428 руб./шт.. Производитель: Завод бетонных изделий BRAER II. Оттенки цветов: Серый. Размеры: 1000*80. Вес поддона, кг: 1759.</description>
+        <param name="Единица измерения">шт.</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">1000*80</param>
+        <param name="Вес поддона, кг">1759</param>
+      </offer>
+      <offer id="12283" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12283-kamen-bordyur-sharnirnyy-trotuarnyy-seryy-h-200-mm/</url>
+        <price>252.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/554/xbiokdhmrlzjrjcf92n49giohga4gwdk/100_76_240cd750bba9870f18aada2478b24840a/kamen_bordyur_sharnirnyy_trotuarnyy_seryy_h_200_mm.jpg</picture>
+        <name>Камень бордюр шарнирный тротуарный, Серый, h=200 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Камень бордюр шарнирный тротуарный, Серый, h=200 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Камень бордюр шарнирный тротуарный, Серый, h=200 мм. Цена — 252 руб./шт.. Производитель: Завод бетонных изделий BRAER II. Оттенки цветов: Серый. Размеры: 1000*150. Вес поддона, кг: 1821.</description>
+        <param name="Единица измерения">шт.</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">1000*150</param>
+        <param name="Вес поддона, кг">1821</param>
+      </offer>
+      <offer id="12285" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12285-plita-vodootvodnaya-lotok-korichnevyy-h-60-mm/</url>
+        <price>979.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/2ff/3u6vybb09rgcz3ry23ke6wzziz2larft/100_76_240cd750bba9870f18aada2478b24840a/plita_vodootvodnaya_lotok_korichnevyy_h_60_mm.jpg</picture>
+        <name>Плита водоотводная лоток, Коричневый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Плита водоотводная лоток, Коричневый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Плита водоотводная лоток, Коричневый, h=60 мм. Цена — 979 руб./шт.. Производитель: Завод бетонных изделий BRAER II. Оттенки цветов: Коричневый. Размеры: 500*200. Вес поддона, кг: 1498.</description>
+        <param name="Единица измерения">шт.</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Оттенки цветов">Коричневый</param>
+        <param name="Размеры">500*200</param>
+        <param name="Вес поддона, кг">1498</param>
+      </offer>
+      <offer id="12287" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12287-plita-vodootvodnaya-lotok-krasnyy-h-60-mm/</url>
+        <price>979.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/876/clwn82pehmpu5pyvbpnlroi5m8f8o87k/100_76_240cd750bba9870f18aada2478b24840a/plita_vodootvodnaya_lotok_krasnyy_h_60_mm.jpg</picture>
+        <name>Плита водоотводная лоток, Красный, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Плита водоотводная лоток, Красный, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Плита водоотводная лоток, Красный, h=60 мм. Цена — 979 руб./шт.. Производитель: Завод бетонных изделий BRAER II. Оттенки цветов: Красный. Размеры: 500*200. Вес поддона, кг: 1498.</description>
+        <param name="Единица измерения">шт.</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Оттенки цветов">Красный</param>
+        <param name="Размеры">500*200</param>
+        <param name="Вес поддона, кг">1498</param>
+      </offer>
+      <offer id="12289" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12289-plita-vodootvodnaya-lotok-pesochnyy-h-60-mm/</url>
+        <price>979.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/334/vzrwsnc977a5jw5zypyhxhtguxkxu0s1/100_76_240cd750bba9870f18aada2478b24840a/plita_vodootvodnaya_lotok_pesochnyy_h_60_mm.jpg</picture>
+        <name>Плита водоотводная лоток, Песочный, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Плита водоотводная лоток, Песочный, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Плита водоотводная лоток, Песочный, h=60 мм. Цена — 979 руб./шт.. Производитель: Завод бетонных изделий BRAER II. Оттенки цветов: Желтый. Размеры: 500*200. Вес поддона, кг: 1498.</description>
+        <param name="Единица измерения">шт.</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Оттенки цветов">Желтый</param>
+        <param name="Размеры">500*200</param>
+        <param name="Вес поддона, кг">1498</param>
+      </offer>
+      <offer id="12291" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12291-plita-vodootvodnaya-lotok-seryy-h-60-mm/</url>
+        <price>758.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/01d/m7yhxgri6sxwqes1ya14msvnyvkivw6s/100_76_240cd750bba9870f18aada2478b24840a/plita_vodootvodnaya_lotok_seryy_h_60_mm.jpg</picture>
+        <name>Плита водоотводная лоток, Серый, h=60 мм</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>Завод бетонных изделий BRAER II</vendor>
+        <model>Плита водоотводная лоток, Серый, h=60 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Плита водоотводная лоток, Серый, h=60 мм. Цена — 758 руб./шт.. Производитель: Завод бетонных изделий BRAER II. Оттенки цветов: Серый. Размеры: 500*200. Вес поддона, кг: 1498.</description>
+        <param name="Единица измерения">шт.</param>
+        <param name="Производитель">Завод бетонных изделий BRAER II</param>
+        <param name="Оттенки цветов">Серый</param>
+        <param name="Размеры">500*200</param>
+        <param name="Вес поддона, кг">1498</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
