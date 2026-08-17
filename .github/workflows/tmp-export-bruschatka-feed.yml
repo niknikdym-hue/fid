@@ -1,0 +1,19 @@
+name: Export paving feed artifact
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/tmp-export-bruschatka-feed.yml
+  workflow_dispatch:
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/upload-artifact@v4
+        with:
+          name: akbars-bruschatka-feed
+          path: akbars_bruschatka_yandex_direct_feed.yml
+          if-no-files-found: error
