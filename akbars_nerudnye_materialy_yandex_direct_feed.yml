@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-08-17 08:51">
+  <shop>
+    <name>Ак Барс Керамик</name>
+    <company>Ак Барс Керамик</company>
+    <url>https://akbarskeramic.ru</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Нерудные материалы</category>
+    </categories>
+    <offers>
+      <offer id="645" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/645-graviy-20-1/</url>
+        <price>1300.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/af8/das9ul63ux0fbsotf8oienkhb834qx8u/100_76_240cd750bba9870f18aada2478b24840a/test_prod.jpg</picture>
+        <name>Гравий 20+</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <model>Гравий 20+</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Гравий 20+. Цена — 1300 руб./т.</description>
+        <param name="Единица измерения">т</param>
+      </offer>
+      <offer id="646" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/646-obogaschenniy-pesok-1/</url>
+        <price>900.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/07f/2ka7n31mggdwlc9qt1yeqz04gs9dgzda/100_76_240cd750bba9870f18aada2478b24840a/obogashchennyy_pesok_1.jpg</picture>
+        <name>Обогащенный песок №1</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <vendor>СК Кама</vendor>
+        <model>Обогащенный песок №1</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Обогащенный песок №1. Цена — 900 руб./т.</description>
+        <param name="Единица измерения">т</param>
+      </offer>
+      <offer id="647" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/647-obogaschenniy-pesok-2/</url>
+        <price>900.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/9bc/tyi6yb24v01xo2l56a2dthgd1v43lvrn/100_76_240cd750bba9870f18aada2478b24840a/obogashchennyy_pesok_2.jpg</picture>
+        <name>Обогащенный песок №2</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <vendor>СК Кама</vendor>
+        <model>Обогащенный песок №2</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Обогащенный песок №2. Цена — 900 руб./т.</description>
+        <param name="Единица измерения">т</param>
+      </offer>
+      <offer id="648" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/648-scheben-graviyniy/</url>
+        <price>1300.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/28e/47anggbdfka56m9swqg88cu6orans05d/100_76_240cd750bba9870f18aada2478b24840a/shcheben_graviynyy.jpg</picture>
+        <name>Щебень из гравия 5-20</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <vendor>СК Кама</vendor>
+        <model>Щебень из гравия 5-20</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Щебень из гравия 5-20. Цена — 1300 руб./т.</description>
+        <param name="Единица измерения">т</param>
+      </offer>
+      <offer id="649" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/649-graviy-20/</url>
+        <price>1200.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/1e3/wq7rln0uk6aur70lgq4iy7avvo8utmn5/100_76_240cd750bba9870f18aada2478b24840a/graviy_20.jpg</picture>
+        <name>Гравий 5-20 мм</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <vendor>СК Кама</vendor>
+        <model>Гравий 5-20 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Гравий 5-20 мм. Цена — 1200 руб./т.</description>
+        <param name="Единица измерения">т</param>
+      </offer>
+      <offer id="652" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/652-opgs/</url>
+        <price>950.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/853/f1az124r8i32j9ywnm29qs33g4ex8s1c/100_76_240cd750bba9870f18aada2478b24840a/opgs.jpg</picture>
+        <name>ОПГС</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <model>ОПГС</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>ОПГС. Цена — 950 руб./т.</description>
+        <param name="Единица измерения">т</param>
+      </offer>
+      <offer id="670" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/670-scheben-granitniy/</url>
+        <price>3100.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/878/szek6t9s6d6ze7um6pbpovuc7pgk2opi/100_76_240cd750bba9870f18aada2478b24840a/shcheben_granitnyy.jpg</picture>
+        <name>Щебень гранитный фр. 5-20 мм Дружинино</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <model>Щебень гранитный фр. 5-20 мм Дружинино</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Щебень гранитный фр. 5-20 мм Дружинино. Цена — 3100 руб./т. Морозостойкость: F300. Фракция 5-20: мм. Марка: 1200. Лещадность 1-2: группа. Насыпная плотность 1,45: тн.</description>
+        <param name="Единица измерения">т</param>
+        <param name="Морозостойкость">F300</param>
+        <param name="Фракция 5-20">мм</param>
+        <param name="Марка">1200</param>
+        <param name="Лещадность 1-2">группа</param>
+        <param name="Насыпная плотность 1,45">тн</param>
+      </offer>
+      <offer id="1278" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/1278-izvestnyakoviy-scheben/</url>
+        <price>1970.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/78a/ta3mgfo3yjnhgh940kyc23q4htjhovci/100_76_240cd750bba9870f18aada2478b24840a/izvestnyakovyy_shcheben.jpg</picture>
+        <name>Известняковый щебень (Жигулевский) М600 фр. 20-40 мм, фр. 40-70 мм</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <vendor>СК Кама</vendor>
+        <model>Известняковый щебень (Жигулевский) М600 фр. 20-40 мм, фр. 40-70 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Известняковый щебень (Жигулевский) М600 фр. 20-40 мм, фр. 40-70 мм. Цена — 1970 руб./т. Морозостойкость: F50. Марка прочности: 600. Фракция 5-20 мм, 20-40 мм, 40-70: мм. Лещадность 1-2: группа. Насыпная плотность 1,3: тн.</description>
+        <param name="Единица измерения">т</param>
+        <param name="Морозостойкость">F50</param>
+        <param name="Марка прочности">600</param>
+        <param name="Фракция 5-20 мм, 20-40 мм, 40-70">мм</param>
+        <param name="Лещадность 1-2">группа</param>
+        <param name="Насыпная плотность 1,3">тн</param>
+      </offer>
+      <offer id="2748" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/2748-rechnoy-pesok/</url>
+        <price>400.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/3bb/uyxt5mmrkc6ac0vildc7bqhcoyp21slj/100_76_240cd750bba9870f18aada2478b24840a/rechnoy_pesok.jpg</picture>
+        <name>Речной песок</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <vendor>СК Кама</vendor>
+        <model>Речной песок</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Речной песок. Цена — 400 руб./т.</description>
+        <param name="Единица измерения">т</param>
+      </offer>
+      <offer id="11315" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/11315-shcheben-granitnyy/</url>
+        <price>3100.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/160/dfm4j59b76epvydxsq39mytxtctqqwwy/100_76_240cd750bba9870f18aada2478b24840a/shcheben_granitnyy.jpg</picture>
+        <name>Щебень гранитный фр. 20-40 мм, фр. 40-70 мм</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <vendor>СК Кама</vendor>
+        <model>Щебень гранитный фр. 20-40 мм, фр. 40-70 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Щебень гранитный фр. 20-40 мм, фр. 40-70 мм. Цена — 3100 руб./т. Морозостойкость: F300. Фракция 20-40 мм, 40-70: мм. Марка: 1200. Лещадность 1-2: группа. Насыпная плотность 1,45: тн.</description>
+        <param name="Единица измерения">т</param>
+        <param name="Морозостойкость">F300</param>
+        <param name="Фракция 20-40 мм, 40-70">мм</param>
+        <param name="Марка">1200</param>
+        <param name="Лещадность 1-2">группа</param>
+        <param name="Насыпная плотность 1,45">тн</param>
+      </offer>
+      <offer id="11316" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/11316-shcheben-granitnyy%2080-180mm/</url>
+        <price>3100.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/122/s8ld1262pi09g1mrql72a36yi95ry0zr/100_76_240cd750bba9870f18aada2478b24840a/shcheben_granitnyy_80_180mm.jpg</picture>
+        <name>Щебень гранитный фр. 80-180 мм</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <vendor>СК Кама</vendor>
+        <model>Щебень гранитный фр. 80-180 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Щебень гранитный фр. 80-180 мм. Цена — 3100 руб./т. Морозостойкость: F300. Фракция 80-180: мм. Марка: 1200. Лещадность 1-2: группа. Насыпная плотность 1,45: тн.</description>
+        <param name="Единица измерения">т</param>
+        <param name="Морозостойкость">F300</param>
+        <param name="Фракция 80-180">мм</param>
+        <param name="Марка">1200</param>
+        <param name="Лещадность 1-2">группа</param>
+        <param name="Насыпная плотность 1,45">тн</param>
+      </offer>
+      <offer id="11576" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/11576-pgs/</url>
+        <price>950.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/499/y0948thh6n1ejm4t70mvwbcxe2sz8lfn/100_76_240cd750bba9870f18aada2478b24840a/pgs.jpg</picture>
+        <name>ПГС</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <model>ПГС</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>ПГС. Цена — 950 руб./т.</description>
+        <param name="Единица измерения">т</param>
+      </offer>
+      <offer id="12073" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/12073-shchps-shchebenochno-peschanaya-smes-fr-0-80-mm/</url>
+        <price>2500.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/upload/resize_cache/iblock/7e3/88aunulo9wj9pemeoj0ylvnaulu1dvq7/100_76_240cd750bba9870f18aada2478b24840a/shchps_shchebenochno_peschanaya_smes_fr_0_80_mm.jpg</picture>
+        <name>ЩПС (щебеночно-песчаная смесь) фр. 0-80 мм</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <model>ЩПС (щебеночно-песчаная смесь) фр. 0-80 мм</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>ЩПС (щебеночно-песчаная смесь) фр. 0-80 мм. Цена — 2500 руб./т. Фракция 0-80: мм. Марка: 1200. Насыпная плотность 1,6: тн.</description>
+        <param name="Единица измерения">т</param>
+        <param name="Фракция 0-80">мм</param>
+        <param name="Марка">1200</param>
+        <param name="Насыпная плотность 1,6">тн</param>
+      </offer>
+      <offer id="16312" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/16312-shcheben-granitnyy-fr-5-20-mm-kachkanar/</url>
+        <price>3100.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/local/templates/akbars/res/nophoto.png</picture>
+        <name>Щебень гранитный фр. 5-20 мм Качканар</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <vendor>Качканар</vendor>
+        <model>Щебень гранитный фр. 5-20 мм Качканар</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Щебень гранитный фр. 5-20 мм Качканар. Цена — 3100 руб./т. Морозостойкость: F300. Фракция 5-20: мм. Марка: 1200. Лещадность 1-2: группа. Насыпная плотность 1,45: тн.</description>
+        <param name="Единица измерения">т</param>
+        <param name="Морозостойкость">F300</param>
+        <param name="Фракция 5-20">мм</param>
+        <param name="Марка">1200</param>
+        <param name="Лещадность 1-2">группа</param>
+        <param name="Насыпная плотность 1,45">тн</param>
+      </offer>
+      <offer id="16632" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/16632-shcheben-iz-graviya-20-40/</url>
+        <price>1300.00</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://akbarskeramic.ru/local/templates/akbars/res/nophoto.png</picture>
+        <name>Щебень из гравия 20-40</name>
+        <typePrefix>Нерудные материалы</typePrefix>
+        <vendor>СК Кама</vendor>
+        <model>Щебень из гравия 20-40</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за 1 тонну. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Щебень из гравия 20-40. Цена — 1300 руб./т.</description>
+        <param name="Единица измерения">т</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
