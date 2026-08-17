@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<yml_catalog date="2026-08-17 09:21">
+<yml_catalog date="2026-08-17 09:24">
   <shop>
     <name>Ак Барс Керамик</name>
     <company>Ак Барс Керамик</company>
@@ -905,6 +905,66 @@
         <param name="Оттенки цветов">Коричневый</param>
         <param name="Размеры">115x115; 172x115</param>
         <param name="Вес поддона, кг">1704</param>
+      </offer>
+      <offer id="8616" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/8616-klinkernaya-mozaika-tsvet-krasnyy/</url>
+        <price>10.64</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Клинкерная мозаика, цвет «КРАСНЫЙ»</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>5 элемент</vendor>
+        <model>Клинкерная мозаика, цвет «КРАСНЫЙ»</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Клинкерная мозаика, цвет «КРАСНЫЙ». Цена — 10.64 руб./шт.</description>
+        <param name="Единица измерения">шт.</param>
+      </offer>
+      <offer id="8617" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/8617-klinkernaya-mozaika-tsvet-myunkhen/</url>
+        <price>10.64</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Клинкерная мозаика, цвет «МЮНХЕН»</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>5 элемент</vendor>
+        <model>Клинкерная мозаика, цвет «МЮНХЕН»</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Клинкерная мозаика, цвет «МЮНХЕН». Цена — 10.64 руб./шт.</description>
+        <param name="Единица измерения">шт.</param>
+      </offer>
+      <offer id="8618" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/8618-klinker-trotuarnyy-52-tsvet-regensburg/</url>
+        <price>64.50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Клинкер тротуарный 52, цвет «РЕГЕНСБУРГ»</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>5 элемент</vendor>
+        <model>Клинкер тротуарный 52, цвет «РЕГЕНСБУРГ»</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Клинкер тротуарный 52, цвет «РЕГЕНСБУРГ». Цена — 64.5 руб./шт.</description>
+        <param name="Единица измерения">шт.</param>
+      </offer>
+      <offer id="8619" available="true">
+        <url>https://akbarskeramic.ru/catalog/product/8619-klinker-trotuarnyy-52-tsvet-myunkhen/</url>
+        <price>64.50</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Клинкер тротуарный 52, цвет «МЮНХЕН»</name>
+        <typePrefix>Тротуарная плитка</typePrefix>
+        <vendor>5 элемент</vendor>
+        <model>Клинкер тротуарный 52, цвет «МЮНХЕН»</model>
+        <pickup>true</pickup>
+        <delivery>true</delivery>
+        <sales_notes>Цена за шт. Самовывоз и доставка доступны по согласованию.</sales_notes>
+        <description>Клинкер тротуарный 52, цвет «МЮНХЕН». Цена — 64.5 руб./шт.</description>
+        <param name="Единица измерения">шт.</param>
       </offer>
       <offer id="9849" available="true">
         <url>https://akbarskeramic.ru/catalog/product/9849-trotuarnaya-plitka-klassiko-duo-pesochnyy-h-40-mm/</url>

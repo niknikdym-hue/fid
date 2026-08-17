@@ -2,38 +2,10 @@
   "source": "https://akbarskeramic.ru/catalog/bruschatka/",
   "pages": 6,
   "catalog_product_count": 70,
-  "included_offer_count": 60,
+  "included_offer_count": 64,
   "no_price_count": 3,
-  "suspicious_excluded_count": 7,
+  "suspicious_excluded_count": 3,
   "suspicious_excluded": [
-    {
-      "id": "8616",
-      "title": "Клинкерная мозаика, цвет «КРАСНЫЙ»",
-      "price": 10.64,
-      "unit": "м2",
-      "url": "https://akbarskeramic.ru/catalog/product/8616-klinkernaya-mozaika-tsvet-krasnyy/"
-    },
-    {
-      "id": "8617",
-      "title": "Клинкерная мозаика, цвет «МЮНХЕН»",
-      "price": 10.64,
-      "unit": "м2",
-      "url": "https://akbarskeramic.ru/catalog/product/8617-klinkernaya-mozaika-tsvet-myunkhen/"
-    },
-    {
-      "id": "8618",
-      "title": "Клинкер тротуарный 52, цвет «РЕГЕНСБУРГ»",
-      "price": 64.5,
-      "unit": "м2",
-      "url": "https://akbarskeramic.ru/catalog/product/8618-klinker-trotuarnyy-52-tsvet-regensburg/"
-    },
-    {
-      "id": "8619",
-      "title": "Клинкер тротуарный 52, цвет «МЮНХЕН»",
-      "price": 64.5,
-      "unit": "м2",
-      "url": "https://akbarskeramic.ru/catalog/product/8619-klinker-trotuarnyy-52-tsvet-myunkhen/"
-    },
     {
       "id": "12243",
       "title": "Тротуарная плитка Ригель 2.0, Гранит на белом, h=60 мм",
@@ -72,5 +44,11 @@
       "title": "Плита перекрытия",
       "url": "https://akbarskeramic.ru/catalog/product/1274-plita-perekrytiya/"
     }
+  ],
+  "clinker_unit_corrected_to_piece": [
+    "8616",
+    "8617",
+    "8618",
+    "8619"
   ]
 }
