@@ -1,0 +1,37 @@
+name: Create paving Direct feed
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/tmp_create_bruschatka_direct_feed.py
+      - .github/workflows/tmp-create-bruschatka-direct-feed.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check requests beautifulsoup4
+      - name: Build and validate feed
+        run: python scripts/tmp_create_bruschatka_direct_feed.py
+      - name: Commit feed and report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add akbars_bruschatka_yandex_direct_feed.yml tmp-akbars-bruschatka-feed-report.json
+          if git diff --cached --quiet; then
+            echo "Feed unchanged"
+          else
+            git commit -m "Add Ak Bars paving Direct feed"
+            git push
+          fi
